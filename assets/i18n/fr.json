@@ -1,0 +1,1072 @@
+{
+    "Navbar" : {
+     "Dropdown" :"Choisissez la langue",
+     "Ar" : "Arabe",
+     "En" : "Anglais",
+     "Fr" : "Français",
+     "Home" :"Page d’accueil",
+     "title": "MidTripÉgypte",
+     "programes":"Nos programmes",
+    "singout" :"Connecté",
+    "login" :"Connexion",
+     "register" : "ٌCréer un compte",
+    "Programes" : "Notre",
+    "gallery" :" Galerie ",
+    "exchange": "Taux de change", 
+    "Weather":"Météo",
+    "News":"Actualités"
+},
+"Rgsiter": {
+    "RegisterNow":"Inscrivez-vous maintenant",
+    "Name":"Nom",
+    "NameRequired" :"Le nom est obligatoire.",
+    "NameMinlength" :"Le nom doit comporter au moins 3 caractères.",
+    "NameMaxlength" : "Le nom ne peut pas dépasser 20 caractè.",
+    "Email":"Messagerie électronique",
+    "Password": " Mot de passe",
+    "rePassword":"Confirmer le mot de passe",
+    "Phone":"Téléphone",
+    "btnRegister":"Registre",
+    "PasswordRequired." : "Le mot de passe est requis.",
+    "PasswordConfirmationRequired": "La confirmation du mot de passe est requise",
+    "PasswordsMatch":" Les mots de passe ne correspondent pas",
+    "PhoneeqRuired": "Le numéro de téléphone est requis"
+
+},
+"LoginForm":{
+    "loginNow": "Connectez-vous maintenant",
+    "Email":"Messagerie électronique",
+    "Password": "Mot de passe",
+    "ForgetPassword": "Mot de passe oublié",
+    "btnLogin":"connectez-vous",
+    "EmailConfirm": "Confirmation par e-mail",
+    "EmailRequired" : "L’adresse e-mail est requise",
+    "InvalidEmailFormat":"Format d’e-mail non valide",
+    "SendEmail":"Envoyer un e-mail",
+    "resetCode": "Réinitialiser le code",
+    "CodeIsRequired":"Le code est requis",
+    "CodeNotCorrect":"Code non correct",
+    "btnCode":"Envoyer le code",
+    "Code" : "code"
+}
+,
+"Home": {
+    "title":" Traitement et guérison en Égypte",
+    "feedbackNameOne":"Marcos Sameh",
+    "feedbackCaptionOne":"J’ai apprécié le voyage médical en Égypte, c’est vraiment une ville merveilleuse, son atmosphère est belle et ses habitants sont bons. Vraiment c’était d’excellentes vacances, ce site m’a beaucoup aidé, merci à toute l’équipe",
+    "feedbackNameTwo":"Engy Adle",
+    "feedbackCaptionTwo":"C’est la première fois que je visite en Égypte et ce site merveilleux m’a beaucoup aidé à organiser mon temps et à l’utiliser correctement et à traiter les gens au-dessus de merveilleux Merci beaucoup",
+    "feedbackNameThree":"Patrick John",
+    "feedbackCaptionThree":"J’ai beaucoup apprécié une visite en Égypte, surtout j’ai apprécié le voyage thérapeutique, car l’Égypte bénéficie de nombreux lieux thérapeutiques naturels et ma santé s’est considérablement améliorée, je vous conseille d’essayer ce voyage ",
+    "feedbackNameFour":"Sandra Burak",
+    "feedbackCaptionFour":" ",
+    "who": {
+    "title": "Qui Sommes-Nous",
+    "1": "Vous cherchez un lieu qui combine soins et détente ? L'Égypte est votre destination idéale ! L'Égypte possède une riche histoire dans la médecine et les soins, offrant une large gamme de traitements naturels et esthétiques. Le tourisme médical en Égypte est une opportunité unique pour se rétablir, se revitaliser et explorer une civilisation ancienne.",
+    "2": "Notre site web propose une destination complète et unique pour les passionnés de voyage et de tourisme médical, visant à guider les touristes vers les principales destinations thérapeutiques d'Égypte. Nous fournissons des informations détaillées sur les centres de soins réputés, les complexes de bien-être et les attractions touristiques, offrant une expérience unique qui combine soins avancés et beauté historique de l'Égypte.",
+    "3": "L'Égypte bénéficie de ressources naturelles uniques qui en font une destination idéale pour le tourisme médical. Les sources de soufre, le sable noir, le climat chaud et les eaux minérales sont quelques-unes des richesses naturelles utilisées pour traiter diverses maladies telles que le rhumatisme et les affections cutanées.",
+    "4": "Notre site propose une interface facile à utiliser et des cartes interactives qui aident les visiteurs à localiser les centres de soins et à voir les options disponibles pour chaque destination. Le site propose également des services de conversion de devises et des mises à jour météo pour les grandes villes égyptiennes, aidant ainsi les visiteurs à mieux planifier leurs voyages.",
+    "5": "Le site comprend un blog qui publie régulièrement les dernières nouvelles et articles sur l'importance du tourisme médical en Égypte et ses nombreux avantages. Par le biais de ce blog, nous visons à sensibiliser à ce domaine et à fournir des conseils aux patients et aux visiteurs pour assurer un voyage de soins confortable et fructueux.",
+    "6": "Notre site web vise à être un portail complet qui combine confort et soins avancés, en fournissant des informations précises sur les services de tourisme médical en Égypte. Les utilisateurs peuvent explorer les options de soins disponibles, y compris les programmes de rééducation et les thérapies naturelles, et découvrir les meilleures destinations offrant des environnements thérapeutiques exceptionnels. Nous fournissons également une carte interactive pour aider les utilisateurs à explorer les sites médicaux et touristiques, avec accès aux données météorologiques et de conversion de devises, rendant la planification du voyage plus fluide et facile."
+  }
+
+},
+"Programes":{
+    "bookNow":"Réservez maintenant"
+},
+"pagnation":{
+    "Next":"prochaine",
+    "Previous" :"Précédente",
+     "page" :"Page",
+    "of":"de"
+},
+"medications": {
+  "title" : "État de santé",
+    "1": "Maladies respiratoires",
+    "2": "Maladies des os et des articulations",
+    "3": "Maladies de la peau",
+    "4": "Maladies neurologiques",
+    "5": "Maladies musculaires",
+    "6": "Maladies digestives",
+    "7": "Stress et anxiété",
+    "8": "Problèmes circulatoires"
+  },
+  "TreatmentWays": {
+    "title" : "Modalité de traitement",
+    "1": "Sources sulfureuses et eau minérale",
+    "2": "Boues et sable chaud",
+    "3": "Sources sulfureuses",
+    "4": "Récupération dans une atmosphère pure et un climat sec"
+  },    
+  "packages": {
+    "Title" : "Classification par coût" ,
+    "ECONOMY": "Classe Économique",
+    "MEDIUM": "Classe Moyenne",
+    "PREMIUM": "Classe Premium (Première Classe)",
+    "VIP": "Programme VIP",
+   "1": {
+  "name": "Traitement de boue et de sable chaud à Siwa",
+  "location": "Oasis de Siwa",
+  "facilities": "Bains minéraux thérapeutiques, zones de traitement à l'argile naturelle, et salles de physiothérapie équipées pour une rééducation complète des articulations.",
+  "disease": "Rhumatisme et arthrite",
+  "disease2": "Psoriasis et maladies de la peau",
+  "disease3": "Tension et douleurs musculaires",
+  "price": "3000",       
+  "days": "7",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Petit-déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Bain de boue thérapeutique, thérapie par le sable, thérapie par massage",
+  "activities": "Explorer l'Oasis de Siwa & Observation des étoiles & Visiter le Musée de Siwa & Visiter les Lacs Salés",
+  "category": "Économique"
+   },
+    "2": {
+  "name": "Programme de guérison à Oyoun Moussa",
+  "location": "Sud du Sinaï",
+  "facilities": "Zones de baignade riches en minéraux, chambres de thérapie à l'argile naturelle, et installations de physiothérapie complètes pour la rééducation des articulations.",
+  "disease": "Arthrite et rhumatisme",
+  "disease2": "Eaux sulfurées riches",
+  "disease3": "Maladies de la peau",
+  "disease4": "Douleurs osseuses et articulaires",
+  "diseasecat1": "Maladies des os et des articulations",
+  "diseasecat2": "Maladies respiratoires",
+  "diseasecat3": "Maladies de la peau",
+  "price": "4500",    
+  "days": "5",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit-déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Utilisation de l'eau sulfurée riche en minéraux pour des bains thérapeutiques, combinée à l'application d'argile naturelle pour régénérer la peau et soulager les articulations, suivie de programmes de rééducation personnalisés pour améliorer la mobilité et soulager la douleur.",
+  "activities": "Explorer Ras Sedr & Visiter le Mont Sinaï et le Monastère Sainte-Catherine & Safaris dans le désert & Observation des étoiles",
+  "category": "Standard"
+},
+ "3": {
+  "name": "Traitement au sel et au sable noir à Safaga",
+  "location": "Safaga, Mer Rouge",
+  "facilities": "Zones de traitement spécialisées pour les thérapies au sel et au sable noir, équipement médical avancé pour la surveillance, et un soutien infirmier 24/7 pour les soins aux patients.",
+  "disease": "Psoriasis et maladies de la peau",
+  "disease2": "Arthrite et douleurs osseuses",
+  "disease3": "Maladies respiratoires",
+  "diseasecat1": "Maladies des os et des articulations",
+  "diseasecat2": "Maladies respiratoires",
+  "diseasecat3": "Maladies de la peau",
+  "price": "6000",    
+  "days": "6",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit-déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Traitements thérapeutiques utilisant le sel et le sable noir pour une guérison naturelle, combinés à des séances de physiothérapie personnalisées. Les traitements se concentrent sur le renouvellement de la peau pour le psoriasis, le soulagement de l'arthrite et des douleurs osseuses, ainsi que des thérapies respiratoires pour améliorer le bien-être général.",
+  "activities": "Détente sur la plage, plongée en apnée et plongée sous-marine, excursions en bateau, safaris dans le désert, planche à voile et kitesurf, excursion d'une journée à Louxor",
+  "category": "Premium"
+},
+"4": {
+  "name": "Récupération par eau sulfurée",
+  "location": "Helwan, Grand Caire",
+  "facilities": "Bains thérapeutiques à l'eau sulfurée, chambres de traitement privées pour les massages et la physiothérapie, et zones de traitement à base de plantes conçues pour la relaxation et la guérison.",
+  "disease": "Rhumatisme et arthrite",
+  "disease2": "Maladies chroniques de la peau",
+  "disease3": "Maladies respiratoires",
+  "diseasecat1": "Maladies respiratoires",
+  "diseasecat2": "Maladies des os et des articulations",
+  "diseasecat3": "Maladies de la peau",
+  "price": "7500",  
+  "days": "5",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit-déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Guérison par immersion dans des bains d'eau sulfurée réputés pour leurs propriétés thérapeutiques, combinée à des massages ciblés et des séances de physiothérapie pour soulager la douleur du rhumatisme et de l'arthrite. Des séances de traitement à base de plantes complètent la thérapie pour traiter les maladies chroniques de la peau et des voies respiratoires, favorisant la guérison et le bien-être général.",
+  "activities": "Visite des bains historiques de soufre de Helwan, visite culturelle de Helwan, excursion d'une journée au Caire, promenade en bateau sur le Nil",
+  "category": "VIP"
+},
+"5": {
+  "name": "Programme de guérison à Oyoun Moussa - Économique",
+  "location": "Sud du Sinaï",
+  "facilities": "Zones de baignade riches en minéraux, chambres de thérapie au clay naturel, et installations complètes de physiothérapie pour la rééducation des articulations.",
+  "disease": "Arthrite et rhumatisme",
+  "disease2": "Eaux riches en soufre",
+  "disease3": "Maladies de la peau",
+  "disease4": "Douleurs osseuses et articulaires",
+  "diseaseCategories": [
+    "Maladies des os et des articulations",
+    "Maladies respiratoires",
+    "Maladies de la peau"
+  ],
+  "price": "3500",
+  "days": "5",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit-déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Utilisation de l'eau sulfurée riche en minéraux pour les bains thérapeutiques, combinée à l'application d'argile naturel pour le rajeunissement de la peau et le soulagement des articulations.",
+  "activities": "Explorer Ras Sedr, Visiter le Mont Sinaï et le Monastère de Sainte-Catherine, Safaris dans le désert, Observation des étoiles",
+  "category": "Économique"
+},
+"6": {
+  "name": "Programme de guérison à Oyoun Moussa - Standard",
+  "location": "Sud du Sinaï",
+  "facilities": "Zones de baignade riches en minéraux, chambres de thérapie au clay naturel, et installations complètes de physiothérapie pour la rééducation des articulations.",
+  "disease": "Arthrite et rhumatisme",
+  "disease2": "Eaux riches en soufre",
+  "disease3": "Maladies de la peau",
+  "disease4": "Douleurs osseuses et articulaires",
+  "diseaseCategories": [
+    "Maladies des os et des articulations",
+    "Maladies respiratoires",
+    "Maladies de la peau"
+  ],
+  "price": "5000",
+  "days": "5",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit-déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Utilisation de l'eau sulfurée riche en minéraux pour les bains thérapeutiques, combinée à l'application d'argile naturel pour le rajeunissement de la peau et le soulagement des articulations, suivie de programmes personnalisés de rééducation des articulations.",
+  "activities": "Explorer Ras Sedr, Visiter le Mont Sinaï et le Monastère de Sainte-Catherine, Safaris dans le désert, Observation des étoiles",
+  "category": "Standard"
+},
+  "7": {
+  "name": "Programme de guérison à Oyoun Moussa - Premium",
+  "location": "Sud du Sinaï",
+  "facilities": "Zones de baignade riches en minéraux, chambres de thérapie au clay naturel, et installations complètes de physiothérapie pour la rééducation des articulations.",
+  "disease": "Arthrite et rhumatisme",
+  "disease2": "Eaux riches en soufre",
+  "disease3": "Maladies de la peau",
+  "disease4": "Douleurs osseuses et articulaires",
+  "diseaseCategories": [
+    "Maladies des os et des articulations",
+    "Maladies respiratoires",
+    "Maladies de la peau"
+  ],
+  "price": "6500",
+  "days": "5",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit-déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Utilisation de l'eau sulfurée riche en minéraux pour les bains thérapeutiques, combinée à l'application d'argile naturel pour le rajeunissement de la peau et le soulagement des articulations, suivie de programmes personnalisés de rééducation des articulations, avec des soins spa de luxe supplémentaires.",
+  "activities": "Explorer Ras Sedr, Visiter le Mont Sinaï et le Monastère de Sainte-Catherine, Safaris dans le désert, Observation des étoiles, Tours guidés privés",
+  "category": "Premium"
+},
+"8": {
+  "name": "Programme de guérison à Oyoun Moussa - Luxe",
+  "location": "Sud du Sinaï",
+  "facilities": "Zones de baignade riches en minéraux, chambres de thérapie au clay naturel, et installations complètes de physiothérapie pour la rééducation des articulations.",
+  "disease": "Arthrite et rhumatisme",
+  "disease2": "Eaux riches en soufre",
+  "disease3": "Maladies de la peau",
+  "disease4": "Douleurs osseuses et articulaires",
+  "diseaseCategories": [
+    "Maladies des os et des articulations",
+    "Maladies respiratoires",
+    "Maladies de la peau"
+  ],
+  "price": "8000",
+  "days": "5",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit-déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Utilisation de l'eau sulfurée riche en minéraux pour les bains thérapeutiques, combinée à l'application d'argile naturel pour le rajeunissement de la peau et le soulagement des articulations, suivie de programmes personnalisés de rééducation des articulations, avec des services exclusifs de spa VIP.",
+  "activities": "Explorer Ras Sedr, Visiter le Mont Sinaï et le Monastère de Sainte-Catherine, Safaris dans le désert, Observation des étoiles, Tours guidés privés, Vol en hélicoptère au-dessus du Sinaï",
+  "category": "VIP"
+},
+"9": {
+  "name": "Traitement au sel et sable noir à Safaga - Économique",
+  "location": "Safaga, Mer Rouge",
+  "facilities": "Zones de traitement spécialisées pour le traitement au sel et au sable noir, équipements médicaux avancés pour la surveillance, et soutien infirmier 24h/24 et 7j/7 pour les soins des patients.",
+  "disease": "Psoriasis et maladies de la peau",
+  "disease2": "Arthrite et douleurs osseuses",
+  "disease3": "Maladies respiratoires",
+  "diseaseCategories": [
+    "Maladies des os et des articulations",
+    "Maladies respiratoires",
+    "Maladies de la peau"
+  ],
+  "price": "4000",
+  "days": "6",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit-déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Traitements thérapeutiques utilisant le sel et le sable noir pour la guérison naturelle, combinés avec des séances de physiothérapie sur mesure axées sur le rajeunissement de la peau pour le psoriasis, l'atténuation des douleurs arthritiques et osseuses, et des thérapies respiratoires.",
+  "activities": "Détente sur la plage, plongée en apnée et plongée sous-marine, Safaris dans le désert",
+  "category": "Économique"
+},
+"10": {
+  "name": "Traitement au sel et sable noir à Safaga - Standard",
+  "location": "Safaga, Mer Rouge",
+  "facilities": "Zones de traitement spécialisées pour le traitement au sel et au sable noir, équipements médicaux avancés pour la surveillance, et soutien infirmier 24h/24 et 7j/7 pour les soins des patients.",
+  "disease": "Psoriasis et maladies de la peau",
+  "disease2": "Arthrite et douleurs osseuses",
+  "disease3": "Maladies respiratoires",
+  "diseaseCategories": [
+    "Maladies des os et des articulations",
+    "Maladies respiratoires",
+    "Maladies de la peau"
+  ],
+  "price": "5000",
+  "days": "6",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit-déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Traitements thérapeutiques utilisant le sel et le sable noir pour la guérison naturelle, combinés avec des séances de physiothérapie sur mesure axées sur le rajeunissement de la peau pour le psoriasis, l'atténuation des douleurs arthritiques et osseuses, et des thérapies respiratoires.",
+  "activities": "Détente sur la plage, plongée en apnée et plongée sous-marine, promenades en bateau, safaris dans le désert, planche à voile et kitesurf",
+  "category": "Standard"
+},
+"11": {
+    "name": "Traitement au sel et sable noir à Safaga - Premium",
+    "location": "Safaga, Mer Rouge",
+    "facilities": "Zones de traitement spécialisées pour le sel et le sable noir, équipement médical avancé pour la surveillance, et soins infirmiers 24h/24 pour la prise en charge des patients.",
+    "disease": "Psoriasis et maladies de la peau",
+    "disease2": "Arthrite et douleurs osseuses",
+    "disease3": "Maladies respiratoires",
+    "diseasecat1": "Maladies des os et articulations",
+    "diseasecat2": "Maladies respiratoires",
+    "diseasecat3": "Maladies de la peau",
+    "price": "6000",
+    "days": "6",
+    "accommodation": "Oui",
+    "transportation": "Oui",
+    "meals": "Compris: Petit-déjeuner & Déjeuner & Dîner",
+    "treatmentWay": "Traitements thérapeutiques utilisant du sel et du sable noir pour une guérison naturelle, avec des séances de physiothérapie personnalisées axées sur le renouvellement de la peau pour traiter le psoriasis, soulager les douleurs de l'arthrite et des os, et traiter les maladies respiratoires.",
+    "activities": "Détente sur la plage, plongée et baignade, excursions en bateau, randonnées dans le désert, sports de glisse et parapente, excursion à Louxor",
+    "category": "Premium"
+  },
+  "12": {
+    "name": "Traitement au sel et sable noir à Safaga - Luxe",
+    "location": "Safaga, Mer Rouge",
+    "facilities": "Zones de traitement spécialisées pour le sel et le sable noir, équipement médical avancé pour la surveillance, et soins infirmiers 24h/24 pour la prise en charge des patients.",
+    "disease": "Psoriasis et maladies de la peau",
+    "disease2": "Arthrite et douleurs osseuses",
+    "disease3": "Maladies respiratoires",
+    "diseasecat1": "Maladies des os et articulations",
+    "diseasecat2": "Maladies respiratoires",
+    "diseasecat3": "Maladies de la peau",
+    "price": "7000",
+    "days": "6",
+    "accommodation": "Oui",
+    "transportation": "Oui",
+    "meals": "Compris: Petit-déjeuner & Déjeuner & Dîner",
+    "treatmentWay": "Traitements thérapeutiques utilisant du sel et du sable noir pour une guérison naturelle, avec des séances de physiothérapie personnalisées axées sur le renouvellement de la peau pour traiter le psoriasis, soulager les douleurs de l'arthrite et des os, et traiter les maladies respiratoires.",
+    "activities": "Détente sur la plage, plongée et baignade, excursions en bateau, randonnées dans le désert, sports de glisse et parapente, excursion à Louxor, visites des temples de Louxor et de Karnak",
+    "category": "VIP"
+  },
+  "13": {
+    "name": "Traitement à l'eau sulfureuse - Économique",
+    "location": "Helwan, Grand Caire",
+    "facilities": "Bains thérapeutiques à l'eau sulfureuse, salles de traitement spécialisées pour les massages et la physiothérapie, et zones de traitement aux herbes conçues pour la détente et la guérison.",
+    "disease": "Rhumatismes et arthrite",
+    "disease2": "Maladies de la peau chroniques",
+    "disease3": "Maladies respiratoires",
+    "diseasecat1": "Maladies respiratoires",
+    "diseasecat2": "Maladies des os et articulations",
+    "diseasecat3": "Maladies de la peau",
+    "price": "3500",
+    "days": "5",
+    "accommodation": "Oui",
+    "transportation": "Oui",
+    "meals": "Compris: Petit-déjeuner & Déjeuner & Dîner",
+    "treatmentWay": "Guérison par immersion dans des bains d'eau sulfureuse réputée pour ses propriétés thérapeutiques, avec des séances de massage et de physiothérapie pour soulager la douleur des rhumatismes et de l'arthrite.",
+    "activities": "Visite des bains sulfureux historiques d'Helwan, excursion culturelle à Helwan",
+    "category": "Économique"
+  },
+  "14": {
+    "name": "Traitement à l'eau sulfureuse - Standard",
+    "location": "Helwan, Grand Caire",
+    "facilities": "Bains thérapeutiques à l'eau sulfureuse, salles de traitement spécialisées pour les massages et la physiothérapie, et zones de traitement aux herbes conçues pour la détente et la guérison.",
+    "disease": "Rhumatismes et arthrite",
+    "disease2": "Maladies de la peau chroniques",
+    "disease3": "Maladies respiratoires",
+    "diseasecat1": "Maladies respiratoires",
+    "diseasecat2": "Maladies des os et articulations",
+    "diseasecat3": "Maladies de la peau",
+    "price": "4000",
+    "days": "5",
+    "accommodation": "Oui",
+    "transportation": "Oui",
+    "meals": "Compris: Petit-déjeuner & Déjeuner & Dîner",
+    "treatmentWay": "Guérison par immersion dans des bains d'eau sulfureuse réputée pour ses propriétés thérapeutiques, avec des séances de massage et de physiothérapie pour soulager la douleur des rhumatismes et de l'arthrite.",
+    "activities": "Visite des bains sulfureux historiques d'Helwan, excursion culturelle à Helwan, excursion au Caire, promenade en bateau sur le Nil",
+    "category": "Standard"
+  },
+  "15": {
+    "name": "Traitement à l'eau sulfureuse - Premium",
+    "location": "Helwan, Grand Caire",
+    "facilities": "Bains thérapeutiques à l'eau sulfureuse, salles de traitement spécialisées pour les massages et la physiothérapie, et zones de traitement aux herbes conçues pour la détente et la guérison.",
+    "disease": "Rhumatismes et arthrite",
+    "disease2": "Maladies de la peau chroniques",
+    "disease3": "Maladies respiratoires",
+    "diseasecat1": "Maladies respiratoires",
+    "diseasecat2": "Maladies des os et articulations",
+    "diseasecat3": "Maladies de la peau",
+    "price": "4500",
+    "days": "5",
+    "accommodation": "Oui",
+    "transportation": "Oui",
+    "meals": "Compris: Petit-déjeuner & Déjeuner & Dîner",
+    "treatmentWay": "Guérison par immersion dans des bains d'eau sulfureuse réputée pour ses propriétés thérapeutiques, avec des séances de massage et de physiothérapie pour soulager la douleur des rhumatismes et de l'arthrite.",
+    "activities": "Visite des bains sulfureux historiques d'Helwan, excursion culturelle à Helwan, excursion au Caire, promenade en bateau sur le Nil, visite des pyramides de Gizeh",
+    "category": "Premium"
+  },
+  "16": {
+    "name": "Traitement à l'eau sulfureuse - Luxe",
+    "location": "Helwan, Grand Caire",
+    "facilities": "Bains thérapeutiques à l'eau sulfureuse, salles de traitement spécialisées pour les massages et la physiothérapie, et zones de traitement aux herbes conçues pour la détente et la guérison.",
+    "disease": "Rhumatismes et arthrite",
+    "disease2": "Maladies de la peau chroniques",
+    "disease3": "Maladies respiratoires",
+    "diseasecat1": "Maladies respiratoires",
+    "diseasecat2": "Maladies des os et articulations",
+    "diseasecat3": "Maladies de la peau",
+    "price": "5000",
+    "days": "5",
+    "accommodation": "Oui",
+    "transportation": "Oui",
+    "meals": "Compris: Petit-déjeuner & Déjeuner & Dîner",
+    "treatmentWay": "Traitements avancés à l'eau sulfureuse, avec un traitement de physiothérapie personnalisé et des soins à base de plantes.",
+    "activities": "Visite des bains sulfureux historiques d'Helwan, excursion culturelle à Helwan, excursion au Caire, promenade en bateau sur le Nil, visite guidée des monuments historiques",
+    "category": "VIP"
+  },
+
+  "17": {
+    "name": "Traitement aux eaux chaudes et boue - Économique",
+    "location": "Oasis Bahariya",
+    "facilities": "Accès aux sources chaudes minérales, salles de thérapie à la boue noire spécialisées, et espaces de réhabilitation conçus pour un confort et une récupération optimaux.",
+    "disease": "Arthrite",
+    "disease2": "Tension musculaire",
+    "disease3": "Problèmes de peau",
+    "diseasecat1": "Maladies des os et des articulations",
+    "diseasecat2": "Maladies respiratoires",
+    "price": "4000",
+    "days": "5",
+    "accommodation": "Oui",
+    "transportation": "Oui",
+    "meals": "Inclus : Petit-déjeuner & Déjeuner & Dîner",
+    "treatmentWay": "Utilisation des sources chaudes minérales pour une immersion thérapeutique, associée à des séances de thérapie à la boue noire pour soulager l'arthrite et la tension musculaire.",
+    "activities": "Safari dans le désert, visite du désert noir",
+    "category": "Économique"
+  },
+  "18": {
+    "name": "Traitement aux eaux chaudes et boue - Standard",
+    "location": "Oasis Bahariya",
+    "facilities": "Accès aux sources chaudes minérales, salles de thérapie à la boue noire spécialisées, et espaces de réhabilitation conçus pour un confort et une récupération optimaux.",
+    "disease": "Arthrite",
+    "disease2": "Tension musculaire",
+    "disease3": "Problèmes de peau",
+    "diseasecat1": "Maladies des os et des articulations",
+    "diseasecat2": "Maladies respiratoires",
+    "price": "4500",
+    "days": "5",
+    "accommodation": "Oui",
+    "transportation": "Oui",
+    "meals": "Inclus : Petit-déjeuner & Déjeuner & Dîner",
+    "treatmentWay": "Utilisation des sources chaudes minérales pour une immersion thérapeutique, associée à des séances de thérapie à la boue noire pour soulager l'arthrite et la tension musculaire.",
+    "activities": "Safari dans le désert, visite du désert noir, nuit d'observation des étoiles",
+    "category": "Standard"
+  },
+  "19": {
+    "name": "Traitement aux eaux chaudes et boue - Luxe",
+    "location": "Oasis Bahariya",
+    "facilities": "Accès aux sources chaudes minérales, salles de thérapie à la boue noire spécialisées, et espaces de réhabilitation conçus pour un confort et une récupération optimaux.",
+    "disease": "Arthrite",
+    "disease2": "Tension musculaire",
+    "disease3": "Problèmes de peau",
+    "diseasecat1": "Maladies des os et des articulations",
+    "diseasecat2": "Maladies respiratoires",
+    "price": "5000",
+    "days": "5",
+    "accommodation": "Oui",
+    "transportation": "Oui",
+    "meals": "Inclus : Petit-déjeuner & Déjeuner & Dîner",
+    "treatmentWay": "Immersion thérapeutique dans des sources chaudes minérales avec des séances de thérapie à la boue noire pour soulager l'arthrite et la tension musculaire, programmes de réhabilitation personnalisés.",
+    "activities": "Safari dans le désert, visite du désert noir, nuit d'observation des étoiles, visite de la vallée des momies dorées",
+    "category": "Luxe" },
+"20": {
+  "name": "Guérison par eau chaude et boue - Luxe",
+  "location": "Oasis de Bahariya",
+  "facilities": "Accès aux sources d'eau minérale chaude, chambres de thérapie au boue noire dédiées, et espaces de rééducation conçus pour un confort et une récupération optimaux.",
+  "disease": "Inflammation des articulations",
+  "disease2": "Tension musculaire",
+  "disease3": "Affections cutanées",
+  "diseaseCategories": [
+    "Maladies des os et des articulations",
+    "Maladies respiratoires"
+  ],
+  "price": "5500",
+  "days": "5",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit-déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Immersion dans les sources d'eau minérale chaude, thérapie au boue noire, et séances de physiothérapie avancée pour une récupération complète.",
+  "activities": "Safari dans le désert, visite du désert noir, nuit d'observation des étoiles, visite de la Vallée des Momies d'Or, visite de luxe du désert",
+  "category": "VIP"
+},
+"21": {
+  "name": "Guérison par eaux thérapeutiques et vapeur naturelle - Économique",
+  "location": "Sinai Sud",
+  "facilities": "Accès aux sources de soufre naturellement chauffées, chambres de vapeur dans des grottes de montagne, et espaces de détente avec vues spectaculaires sur les paysages environnants.",
+  "disease": "Maladies de la peau",
+  "disease2": "Affections respiratoires",
+  "disease3": "Douleurs articulaires et musculaires",
+  "diseaseCategories": [
+    "Maladies respiratoires",
+    "Maladies de la peau"
+  ],
+  "price": "5500",
+  "days": "6",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit-déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Immersion thérapeutique dans les sources de soufre naturellement chauffées, combinée à une thérapie de vapeur naturel réalisée dans des grottes de montagne pour favoriser la santé respiratoire et soulager les maladies de la peau.",
+  "activities": "Safari dans le désert, visite des villages bédouins locaux",
+  "category": "Économique"
+},"22": {
+  "name": "Guérison par eaux thérapeutiques et vapeur naturelle - Standard",
+  "location": "Sinai Sud",
+  "facilities": "Accès aux sources de soufre naturellement chauffées, chambres de thérapie à la vapeur dans des grottes de montagne, et espaces de relaxation sereins avec des vues splendides sur le paysage environnant.",
+  "disease": "Maladies de la peau",
+  "disease2": "Affections respiratoires",
+  "disease3": "Douleurs articulaires et musculaires",
+  "diseaseCategories": [
+    "Maladies respiratoires",
+    "Maladies de la peau"
+  ],
+  "price": "6000",
+  "days": "6",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit-déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Immersion thérapeutique dans les sources de soufre naturellement chauffées, combinée à une thérapie de vapeur naturelle réalisée dans des grottes de montagne pour favoriser la santé respiratoire et soulager les maladies de la peau.",
+  "activities": "Safari dans le désert, randonnée dans les montagnes du Sinaï, observation des étoiles",
+  "category": "Standard"
+},
+"23": {
+  "name": "Guérison par eaux thérapeutiques et vapeur naturelle - Premium",
+  "location": "Sinai Sud",
+  "facilities": "Accès aux sources de soufre naturellement chauffées, chambres de thérapie à la vapeur dans des grottes de montagne, et espaces de relaxation sereins avec des vues splendides sur le paysage environnant.",
+  "disease": "Maladies de la peau",
+  "disease2": "Affections respiratoires",
+  "disease3": "Douleurs articulaires et musculaires",
+  "diseaseCategories": [
+    "Maladies respiratoires",
+    "Maladies de la peau"
+  ],
+  "price": "6500",
+  "days": "6",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit-déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Immersion thérapeutique dans les sources de soufre naturellement chauffées, combinée à une thérapie de vapeur naturelle réalisée dans des grottes de montagne pour favoriser la santé respiratoire et soulager les maladies de la peau. Traitements ciblés pour les douleurs articulaires et musculaires.",
+  "activities": "Safari dans le désert, randonnée dans les montagnes du Sinaï, observation des étoiles, visite des villages bédouins locaux",
+  "category": "Premium"
+},
+"24": {
+  "name": "Guérison par eaux thérapeutiques et vapeur naturelle - Luxe",
+  "location": "Sinai Sud",
+  "facilities": "Accès aux sources de soufre naturellement chauffées, chambres de thérapie à la vapeur dans des grottes de montagne, et espaces de relaxation sereins avec des vues splendides sur le paysage environnant.",
+  "disease": "Maladies de la peau",
+  "disease2": "Affections respiratoires",
+  "disease3": "Douleurs articulaires et musculaires",
+  "diseaseCategories": [
+    "Maladies respiratoires",
+    "Maladies de la peau"
+  ],
+  "price": "7000",
+  "days": "6",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit-déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Immersion complète dans les sources de soufre naturellement chauffées, combinée à une thérapie de vapeur naturelle et à une physiothérapie avancée pour traiter les problèmes respiratoires, de peau et d'articulation.",
+  "activities": "Safari dans le désert, randonnée dans les montagnes du Sinaï, observation des étoiles, visite des villages bédouins locaux, excursion de luxe dans le désert",
+  "category": "VIP"
+},
+"25": {
+  "name": "Programme de bien-être holistique - Économique",
+  "location": "Ain Sokhna",
+  "facilities": "Commodités de resort de luxe, accès à des sources chaudes riches en minéraux, salles de soins bien-être, et espaces extérieurs tranquilles pour la méditation et la relaxation.",
+  "disease": "Douleurs chroniques des articulations et arthrite",
+  "disease2": "Affections liées au stress et à la fatigue",
+  "disease3": "Problèmes de peau et détoxification",
+  "diseaseCategories": [
+    "Maladies des os et des articulations",
+    "Maladies de la peau",
+    "Stress et anxiété"
+  ],
+  "price": "7000",
+  "days": "5",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit-déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Guérison par l'accès à des sources chaudes riches en minéraux favorisant la relaxation et la détoxification, complétée par des plans de bien-être et de thérapie physique personnalisés adaptés aux besoins individuels.",
+  "activities": "Randonnée dans les montagnes environnantes",
+  "category": "Économique"
+},
+"26": {
+  "name": "Programme de bien-être holistique - Standard",
+  "location": "Ain Sokhna",
+  "facilities": "Commodités de resort de luxe, accès à des sources chaudes riches en minéraux, salles de soins bien-être, et espaces extérieurs tranquilles pour la méditation et la relaxation.",
+  "disease": "Douleurs chroniques des articulations et arthrite",
+  "disease2": "Affections liées au stress et à la fatigue",
+  "disease3": "Problèmes de peau et détoxification",
+  "diseaseCategories": [
+    "Maladies des os et des articulations",
+    "Maladies de la peau",
+    "Stress et anxiété"
+  ],
+  "price": "7500",
+  "days": "5",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit-déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Guérison par l'accès à des sources chaudes riches en minéraux favorisant la relaxation et la détoxification, complétée par des plans de bien-être et de thérapie physique personnalisés adaptés aux besoins individuels.",
+  "activities": "Randonnée dans les montagnes environnantes, balades en bateau sur la mer Rouge",
+  "category": "Standard"
+},
+"27": {
+  "name": "Programme de bien-être holistique - Premium",
+  "location": "Ain Sokhna",
+  "facilities": "Installations de luxe, accès à des sources chaudes riches en minéraux, salles de traitement de bien-être et espaces extérieurs paisibles pour la méditation et la relaxation.",
+  "disease": "Douleurs articulaires chroniques et arthrite",
+  "disease2": "Affections liées au stress et à la fatigue",
+  "disease3": "Problèmes de peau et détoxification",
+  "diseaseCategories": [
+    "Maladies des os et des articulations",
+    "Maladies de la peau",
+    "Stress et anxiété"
+  ],
+  "price": "8000",
+  "days": "5",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit-déjeuner, Déjeuner et Dîner",
+  "treatmentWay": "Guérison grâce à l'accès aux sources chaudes riches en minéraux favorisant la relaxation et la détoxification, complétée par des programmes de bien-être et de thérapie physique personnalisés adaptés aux besoins individuels. Ce programme se concentre sur le soulagement des douleurs articulaires chroniques, des affections liées au stress et des problèmes de peau.",
+  "activities": "Randonnée dans les montagnes environnantes, balades en bateau sur la mer Rouge, séances de massage de relaxation",
+  "category": "Premium"
+},
+"28": {
+  "name": "Programme de bien-être holistique - Luxe",
+  "location": "Ain Sokhna",
+  "facilities": "Installations de luxe, accès à des sources chaudes riches en minéraux, salles de traitement de bien-être et espaces extérieurs paisibles pour la méditation et la relaxation.",
+  "disease": "Douleurs articulaires chroniques et arthrite",
+  "disease2": "Affections liées au stress et à la fatigue",
+  "disease3": "Problèmes de peau et détoxification",
+  "diseaseCategories": [
+    "Maladies des os et des articulations",
+    "Maladies de la peau",
+    "Stress et anxiété"
+  ],
+  "price": "8500",
+  "days": "5",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit-déjeuner, Déjeuner et Dîner",
+  "treatmentWay": "Immersion thérapeutique complète dans des sources chaudes riches en minéraux, complétée par des programmes de bien-être avancés pour traiter le stress, les douleurs articulaires et les problèmes de peau.",
+  "activities": "Randonnée dans les montagnes environnantes, balades en bateau sur la mer Rouge, séances de massage de relaxation, visites privées des attractions locales",
+  "category": "VIP"
+},
+"29": {
+  "name": "Guérison par l'eau thermale - Économique",
+  "location": "Marsa Matruh",
+  "facilities": "Piscines d'eau thermale thérapeutique, salles de traitement de la peau avec technologie avancée, et espaces de détente en bord de mer pour une expérience régénérante.",
+  "disease": "Douleurs musculaires et fatigue",
+  "disease2": "Inflammation articulaire",
+  "disease3": "Maladies respiratoires",
+  "diseaseCategories": [
+    "Maladies respiratoires",
+    "Maladies des os et des articulations",
+    "Maladies musculaires"
+  ],
+  "price": "5900",
+  "days": "5",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit-déjeuner, Déjeuner et Dîner",
+  "treatmentWay": "Immersion thérapeutique dans des eaux thermales riches en minéraux pour soulager les douleurs musculaires et la fatigue, complétée par des traitements de régénération de la peau et de détoxification.",
+  "activities": "Plongée et natation, balade à dos de chameau le long de la côte",
+  "category": "Économique"
+},
+"30": {
+  "name": "Guérison par l'eau thermale - Standard",
+  "location": "Marsa Matruh",
+  "facilities": "Piscines d'eau thermale thérapeutique, salles de traitement de la peau avec technologie avancée, et espaces de détente en bord de mer pour une expérience régénérante.",
+  "disease": "Douleurs musculaires et fatigue",
+  "disease2": "Inflammation articulaire",
+  "disease3": "Maladies respiratoires",
+  "diseaseCategories": [
+    "Maladies respiratoires",
+    "Maladies des os et des articulations",
+    "Maladies musculaires"
+  ],
+  "price": "6200",
+  "days": "5",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit-déjeuner, Déjeuner et Dîner",
+  "treatmentWay": "Immersion thérapeutique dans des eaux thermales riches en minéraux pour soulager les douleurs musculaires et la fatigue, complétée par des traitements de régénération de la peau et de détoxification. Cette approche holistique favorise le bien-être dans un environnement naturel paisible.",
+  "activities": "Plongée et natation, balade à dos de chameau le long de la côte, visite du palais de Cléopâtre",
+  "category": "Standard"
+},
+"31": {
+  "name": "Guérison par l'eau thermale - Premium",
+  "location": "Marsa Matruh",
+  "facilities": "Piscines d'eau thermale thérapeutique, salles de traitement de la peau avec technologie avancée, et espaces de détente en bord de mer pour une expérience régénérante.",
+  "disease": "Douleurs musculaires et fatigue",
+  "disease2": "Inflammation articulaire",
+  "disease3": "Maladies respiratoires",
+  "diseaseCategories": [
+    "Maladies respiratoires",
+    "Maladies des os et des articulations",
+    "Maladies musculaires"
+  ],
+  "price": "6500",
+  "days": "5",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit-déjeuner, Déjeuner et Dîner",
+  "treatmentWay": "Immersion thérapeutique dans des eaux thermales riches en minéraux pour soulager les douleurs musculaires et la fatigue, complétée par des traitements de régénération de la peau et de détoxification. Cette approche holistique favorise le bien-être dans un environnement naturel paisible, avec un focus sur l'inflammation articulaire et les maladies respiratoires.",
+  "activities": "Plongée et natation, balade à dos de chameau le long de la côte, visite du palais de Cléopâtre, séances de relaxation en bord de mer",
+  "category": "Premium"
+}, "32": {
+  "name": "Guérison par l'eau thermale - Luxe",
+  "location": "Marsa Matruh",
+  "facilities": "Bains d'eau thermale thérapeutiques, salles de traitement de la peau avec technologie avancée, et salons de plage pour une expérience revitalisante.",
+  "disease": "Douleurs musculaires et fatigue",
+  "disease2": "Inflammation des articulations",
+  "disease3": "Maladies respiratoires",
+  "diseaseCategories": [
+    "Maladies respiratoires",
+    "Maladies des os et des articulations",
+    "Maladies musculaires"
+  ],
+  "price": "7000",
+  "days": "5",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Immersion thérapeutique complète dans des eaux thermales riches en minéraux, traitements avancés de régénération de la peau, et thérapies personnalisées pour traiter les douleurs musculaires, l'inflammation des articulations et les maladies respiratoires.",
+  "activities": "Plongée et natation, Balade à dos de chameau le long de la côte, Visite du palais de Cléopâtre, Séances de relaxation sur la plage, Massages thérapeutiques",
+  "category": "VIP"
+},
+"33": {
+  "name": "Réhabilitation complète - Économique",
+  "location": "Fayoum",
+  "facilities": "Centre de bien-être intégré avec des piscines de thérapie par l'eau, équipement de physiothérapie, salles de traitement à base de plantes, et espaces extérieurs paisibles pour la détente.",
+  "disease": "Réhabilitation après une blessure",
+  "disease2": "Douleurs chroniques des articulations et des muscles",
+  "disease3": "Arthrite et rhumatisme",
+  "diseaseCategories": [
+    "Maladies des os et des articulations",
+    "Maladies respiratoires"
+  ],
+  "price": "6500",
+  "days": "7",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Un mélange de thérapie par l'eau, physiothérapie et traitements à base de plantes adaptés aux besoins individuels. Ce programme se concentre sur la réhabilitation après une blessure et le soulagement des douleurs chroniques des articulations et des muscles.",
+  "activities": "Balade en bateau sur le lac Qarun, Visite de Wadi El-Rayan",
+  "category": "Économique"
+},
+"34": {
+  "name": "Réhabilitation complète - Standard",
+  "location": "Fayoum",
+  "facilities": "Centre de bien-être intégré avec des piscines de thérapie par l'eau, équipement de physiothérapie, salles de traitement à base de plantes, et espaces extérieurs paisibles pour la détente.",
+  "disease": "Réhabilitation après une blessure",
+  "disease2": "Douleurs chroniques des articulations et des muscles",
+  "disease3": "Arthrite et rhumatisme",
+  "diseaseCategories": [
+    "Maladies des os et des articulations",
+    "Maladies respiratoires"
+  ],
+  "price": "7000",
+  "days": "7",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Approche intégrative combinant thérapie par l'eau, physiothérapie et traitements à base de plantes adaptés aux besoins individuels. Ce programme se concentre sur la réhabilitation après une blessure et le soulagement des douleurs chroniques des articulations et des muscles.",
+  "activities": "Balade en bateau sur le lac Qarun, Visite de Wadi El-Rayan, Visite des sites historiques de Fayoum",
+  "category": "Standard"
+},
+"35": {
+  "name": "Réhabilitation complète - Premium",
+  "location": "Fayoum",
+  "facilities": "Centre de bien-être intégré avec des piscines de thérapie par l'eau, équipement de physiothérapie, salles de traitement à base de plantes, et espaces extérieurs paisibles pour la détente.",
+  "disease": "Réhabilitation après une blessure",
+  "disease2": "Douleurs chroniques des articulations et des muscles",
+  "disease3": "Arthrite et rhumatisme",
+  "diseaseCategories": [
+    "Maladies des os et des articulations",
+    "Maladies respiratoires"
+  ],
+  "price": "7500",
+  "days": "7",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Thérapie complète utilisant la thérapie par l'eau, la physiothérapie et les traitements à base de plantes. Cette approche cible les douleurs des articulations et des muscles, l'arthrite et la réhabilitation après une blessure.",
+  "activities": "Balade en bateau sur le lac Qarun, Visite de Wadi El-Rayan, Visite des sites historiques de Fayoum, Séances de relaxation en plein air",
+  "category": "Premium"
+},"36": {
+  "name": "Réhabilitation complète - Luxe",
+  "location": "Fayoum",
+  "facilities": "Centre de bien-être intégré avec piscines de thérapie par l'eau, équipement de physiothérapie, salles de traitement à base de plantes, et espaces extérieurs paisibles pour la détente.",
+  "disease": "Réhabilitation après une blessure",
+  "disease2": "Douleurs chroniques des articulations et des muscles",
+  "disease3": "Arthrite et rhumatisme",
+  "diseaseCategories": [
+    "Maladies des os et des articulations",
+    "Maladies respiratoires"
+  ],
+  "price": "8000",
+  "days": "7",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Approche holistique avec thérapie par l'eau, physiothérapie, traitements à base de plantes et techniques avancées de relaxation, adaptées à chaque individu.",
+  "activities": "Balade en bateau sur le lac Qarun, Visite de Wadi El-Rayan, Visite des sites historiques de Fayoum, Massages thérapeutiques, Activités de bien-être en plein air",
+  "category": "VIP"
+},
+"37": {
+  "name": "Thérapie par sable chaud - Économique",
+  "location": "Oasis d'Al Kharga",
+  "facilities": "Zone bien-être dédiée à la thérapie par le sable, personnel professionnel pour l'accompagnement des traitements, et salon tranquille pour la détente et la récupération.",
+  "disease": "Maladies rhumatismales",
+  "disease2": "Fatigue chronique et stress",
+  "disease3": "Problèmes de peau et détoxification",
+  "diseaseCategories": [
+    "Maladies des os et des articulations",
+    "Maladies de la peau",
+    "Stress et anxiété"
+  ],
+  "price": "5300",
+  "days": "5",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Enfouissement thérapeutique du corps entier dans le sable chaud du désert, conçu pour soulager les maladies rhumatismales et favoriser la détoxification par des traitements riches en minéraux. Ce programme se concentre sur la réduction de la fatigue chronique et du stress, tandis que l'environnement désertique paisible favorise la relaxation et le bien-être mental.",
+  "activities": "Yoga du désert, Safari dans le désert",
+  "category": "Économique"
+},
+"38": {
+  "name": "Thérapie par sable chaud - Standard",
+  "location": "Oasis d'Al Kharga",
+  "facilities": "Zone bien-être dédiée à la thérapie par le sable, personnel professionnel pour l'accompagnement des traitements, et salon tranquille pour la détente et la récupération.",
+  "disease": "Maladies rhumatismales",
+  "disease2": "Fatigue chronique et stress",
+  "disease3": "Problèmes de peau et détoxification",
+  "diseaseCategories": [
+    "Maladies des os et des articulations",
+    "Maladies de la peau",
+    "Stress et anxiété"
+  ],
+  "price": "5800",
+  "days": "5",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Thérapie par enfouissement dans le sable pour soulager les maladies rhumatismales et améliorer la détoxification. Le programme se concentre sur la réduction de la fatigue chronique et du stress, avec un environnement désertique propice au bien-être physique et mental.",
+  "activities": "Yoga du désert, Safari dans le désert, Nuit d'observation des étoiles",
+  "category": "Standard"
+},
+"39": {
+  "name": "Thérapie par sable chaud - Premium",
+  "location": "Oasis d'Al Kharga",
+  "facilities": "Zone bien-être dédiée à la thérapie par le sable, personnel professionnel pour l'accompagnement des traitements, et salon tranquille pour la détente et la récupération.",
+  "disease": "Maladies rhumatismales",
+  "disease2": "Fatigue chronique et stress",
+  "disease3": "Problèmes de peau et détoxification",
+  "diseaseCategories": [
+    "Maladies des os et des articulations",
+    "Maladies de la peau",
+    "Stress et anxiété"
+  ],
+  "price": "6300",
+  "days": "5",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Thérapie complète par le sable avec des traitements riches en minéraux conçus pour soulager les maladies rhumatismales, la fatigue chronique et le stress, dans un environnement désertique paisible pour une relaxation totale et une détoxification.",
+  "activities": "Yoga du désert, Safari dans le désert, Nuit d'observation des étoiles, Visite de l'Oasis d'Al Kharga",
+  "category": "Premium"
+},
+"40": {
+  "name": "Thérapie par sable chaud - Luxe",
+  "location": "Oasis d'Al Kharga",
+  "facilities": "Zone bien-être dédiée à la thérapie par le sable, personnel professionnel pour l'accompagnement des traitements, et salon tranquille pour la détente et la récupération.",
+  "disease": "Maladies rhumatismales",
+  "disease2": "Fatigue chronique et stress",
+  "disease3": "Problèmes de peau et détoxification",
+  "diseaseCategories": [
+    "Maladies des os et des articulations",
+    "Maladies de la peau",
+    "Stress et anxiété"
+  ],
+  "price": "6800",
+  "days": "5",
+  "accommodation": "Oui",
+  "transportation": "Oui",
+  "meals": "Inclus : Petit déjeuner & Déjeuner & Dîner",
+  "treatmentWay": "Programme exclusif de thérapie par sable chaud offrant des traitements personnalisés pour la détoxification et la réduction du stress, dans un cadre désertique luxueux. Inclut le traitement du corps entier par sable chaud et des techniques avancées de relaxation mentale et physique.",
+  "activities": "Yoga du désert, Safari dans le désert, Nuit d'observation des étoiles, Visite de l'Oasis d'Al Kharga, Séances de relaxation complètes",
+  "category": "VIP"
+}
+
+
+
+      
+    },
+    "details":{
+    "Location":"Emplacement",
+    "Disease":"Maladie",
+    "TreatmentWay":"Mode de traitement",
+    "Facilities": "Installations",
+    "Price":"Prix",
+    "Days":"Jours",
+    "Accommodation": "Hébergement",
+    "Transportation":"Transport",
+    "MealsIncluded":"Repas inclus",
+    "Activities":"Activités"
+},"Posts":{
+  "1":{
+    "name":"Mark",
+    "PostTitle":"super voyage", 
+     "postBody":"j'ai passé un très bon moment en Egypte",
+    "likesNumber":"250",
+    "CommontNumber":"150"
+  },
+  "2":{  
+    "name":"Mark",
+    "PostTitle":"Moment merveilleux", 
+     "postBody":"Des moments merveilleux en Egypte avec ma famille",
+    "likesNumber":"500",
+    "CommontNumber":"800"
+  },
+  "3":{   
+      "name":"Mark",
+      "PostTitle":"Belle Egypte", 
+       "postBody":"J'ai passé un merveilleux moment en Egypte",
+      "likesNumber":"400",
+      "CommontNumber":"100"
+  
+  }
+}
+,
+ "gallery": {
+    "All": "Tout",
+    "Nature": "Nature",
+    "Architecture": "Architecture",
+    "People": "Personnes"
+},
+"blog" : {
+  "Read":"En savoir plus",
+  "1": {
+    "title": "Les essentiels du tourisme médical en Egypte",
+    "content": "L'Egypte contient des centaines de sources naturelles et de puits riches en minéraux et en soufre. Ils ont des capacités et des profondeurs différentes et des températures variables entre 30 et plus de 70 degrés Celsius. Elle contient également les sources les plus riches en soufre au monde, en plus de contenir des minéraux.D'autres propriétés curatives, comme le carbonate de sodium et certains éléments métalliques, comme le magnésium et le fer, se caractérisent par leurs niveaux de salinité élevés adaptés aux opérations de guérison. Les puits naturels avec de l'eau douce et potable sont également très répandus en Égypte. , et l'État y a investi et les a utilisés à des fins économiques avec un contrôle strict des spécifications et des normes pour garantir la qualité et la pureté de l'eau contre les impuretés et les germes, le degré de dureté de l'eau et sa composition chimique. des dunes de sable dont l'importance thérapeutique est égale à celle de l'eau minérale, car le sable contient un groupe d'éléments radioactifs qui ont des bienfaits thérapeutiques pour les maladies rhumatismales et les maladies résultant de maladies de la colonne vertébrale et d'autres maladies souffrant de douleurs aiguës, comme ces dunes. sont utilisés en y enterrant le corps ou en enterrant la partie affectée par une douleur aiguë pendant des périodes de temps spécifiques et étudiées.",
+    "date": "21 octobre 2024 PM"
+  },
+   "2": {
+    "title": "Centres de traitement alternatifs",
+    "content": "Des professionnels de la santé de premier ordre sont employés dans les hôpitaux et les cliniques en Égypte, garantissant les normes de traitement et de soins postopératoires les plus élevées, le tout à faible coût. Cet avantage a désormais consolidé la réputation de l'Égypte en tant que destination majeure du tourisme médical pour les patients.",
+     "date": "23 mars 2024 AM"
+  },
+  "3": {
+    "title": "Elements of medical tourism in Egypt",
+    "content": "Egypt contains hundreds of springs and natural wells rich in minerals and sulfur, with different capacities and depths and varying temperatures ranging from 30 to more than 70 degrees Celsius. It also contains the richest springs in sulfur in the world, in addition to containing other healing minerals such as sodium carbonate and some metallic elements; such as magnesium and iron. Water resources for medical purposes are characterized by containing a salinity ratio suitable for healing processes. Natural wells with fresh and drinkable water are also widespread in Egypt. The state has invested in and used them for economic purposes with strict control over specifications and standards; to ensure the quality and purity of water from impurities and germs and the degree of hardness of the water and its chemical composition. Egypt contains sand dunes whose therapeutic importance is equal to the importance of mineral water; as the sands in them contain a group of radioactive elements that are beneficial for treating rheumatic diseases and diseases resulting from diseases of the spine and other diseases with severe pain; where they are used These dunes are buried in the body or the part of the body that is suffering from acute pain for specific and studied periods of time.",
+    "date": "October 21, 2024 PM"
+  }, 
+  "4": {
+    "title": "Elements of medical tourism in Egypt",
+    "content": "Egypt contains hundreds of springs and natural wells rich in minerals and sulfur, with different capacities and depths and varying temperatures ranging from 30 to more than 70 degrees Celsius. It also contains the richest springs in sulfur in the world, in addition to containing other healing minerals such as sodium carbonate and some metallic elements; such as magnesium and iron. Water resources for medical purposes are characterized by containing a salinity ratio suitable for healing processes. Natural wells with fresh and drinkable water are also widespread in Egypt. The state has invested in and used them for economic purposes with strict control over specifications and standards; to ensure the quality and purity of water from impurities and germs and the degree of hardness of the water and its chemical composition. Egypt contains sand dunes whose therapeutic importance is equal to the importance of mineral water; as the sands in them contain a group of radioactive elements that are beneficial for treating rheumatic diseases and diseases resulting from diseases of the spine and other diseases with severe pain; where they are used These dunes are buried in the body or the part of the body that is suffering from acute pain for specific and studied periods of time.",
+    "date": "October 21, 2024 PM"
+  },
+  "5": {
+    "title": "Elements of medical tourism in Egypt",
+    "content": "Egypt contains hundreds of springs and natural wells rich in minerals and sulfur, with different capacities and depths and varying temperatures ranging from 30 to more than 70 degrees Celsius. It also contains the richest springs in sulfur in the world, in addition to containing other healing minerals such as sodium carbonate and some metallic elements; such as magnesium and iron. Water resources for medical purposes are characterized by containing a salinity ratio suitable for healing processes. Natural wells with fresh and drinkable water are also widespread in Egypt. The state has invested in and used them for economic purposes with strict control over specifications and standards; to ensure the quality and purity of water from impurities and germs and the degree of hardness of the water and its chemical composition. Egypt contains sand dunes whose therapeutic importance is equal to the importance of mineral water; as the sands in them contain a group of radioactive elements that are beneficial for treating rheumatic diseases and diseases resulting from diseases of the spine and other diseases with severe pain; where they are used These dunes are buried in the body or the part of the body that is suffering from acute pain for specific and studied periods of time.",
+    "date": "October 21, 2024 PM"
+  }
+}, 
+"footer": {
+  "contact": "Nos coordonnées",
+  "address": "25, rue Thara, Le Caire",
+  "number" :"(+20) 01274509992",
+  "website": "WWW.MideTripEgypt.com",
+  "quick_links": "Liens rapides",
+  "home": "Accueil",
+  "about_us": "À propos de nous",
+  "packages": "Forfaits",
+  "rate_experience": "Évaluez votre expérience",
+  "faq": "FAQ",
+  "rights_reserved": "MidTripEgypt. Tous les droits réservés."
+
+},
+"faq": {
+    "title": "Questions fréquemment posées",
+    "1": {
+      "q": "Qu'est-ce que MidTripEgypt?",
+      "a": "MidTripEgypt propose des services de tourisme médical en Égypte."
+    },
+    "2": {
+      "q": "Comment puis-je réserver un traitement médical?",
+      "a": "Vous pouvez réserver un traitement via notre site Web ou nous contacter directement."
+    },
+    "3": {
+      "q": "Quelles langues soutenez-vous?",
+      "a": "Nous offrons un support en anglais, arabe et français."
+    },
+    "4": {
+      "q": "Le transport est-il inclus dans les forfaits?",
+      "a": "Oui, le transport est inclus dans la plupart de nos forfaits."
+    },
+    "5": {
+      "q": "Puis-je obtenir une consultation avant de réserver?",
+      "a": "Oui, nous proposons des consultations avant toute réservation."
+    },
+    "6": {
+      "q": "Quels types de traitements sont disponibles?",
+      "a": "Nous proposons une large gamme de traitements, notamment la chirurgie esthétique, les procédures dentaires et les thérapies de bien-être."
+    },
+    "7": {
+      "q": "Fournissez-vous une assurance médicale?",
+      "a": "Nous offrons une assistance pour l'assurance médicale, mais la décision finale dépend du fournisseur d'assurance."
+    },
+    "8": {
+      "q": "Comment savoir quel est le meilleur forfait de traitement pour moi?",
+      "a": "Vous pouvez planifier une consultation gratuite avec l'un de nos experts pour déterminer le meilleur forfait de traitement pour vos besoins."
+    },
+    "9": {
+      "q": "Les médecins sont-ils accrédités?",
+      "a": "Oui, tous nos médecins sont accrédités et reconnus internationalement."
+    },
+    "10": {
+      "q": "Que se passe-t-il si je dois annuler ou modifier ma réservation?",
+      "a": "Nous proposons des politiques flexibles d'annulation et de reprogrammation. Veuillez nous contacter pour plus de détails."
+    }
+   },
+   "ResetCode": {
+    "Title": "Réinitialiser le mot de passe",
+    "Code": "Code de vérification",
+    "required": "L'Code est obligatoire.",
+    "pattern": "L'Code n'est pas correct.",
+    "SendCode": "Envoyer le code"
+},
+"NewPasswprd": {
+    "Title": "Nouveau mot de passe",
+    "Email": "Email",
+    "Password": "Mot de passe",
+    "EmailRequired": "L'email est obligatoire.",
+    "EmailPattern": "Format d'email invalide.",
+    "PasswordRequired": "Le mot de passe est obligatoire.",
+    "PasswordPattern": "Le mot de passe doit contenir au moins 6 caractères.",
+    "send": "Envoyer"
+},
+"Filter" : "Filtrer par",
+"Apply": "Appliquer",
+"Reset": "Réinitialiser",
+"Search": {
+  "Placeholder": "Rechercher par titre ...",
+  "NoResults" :  "Il n'y a pas de voyages qui correspondent à votre recherche. Vous pouvez créer le vôtre."
+
+},
+"counter": {
+    "users": "Visiteurs",
+    "trips": "Voyages cette année",
+    "feedbacks": "Avis clients",
+    "programs": "Programmes disponibles"
+}
+  }
+  

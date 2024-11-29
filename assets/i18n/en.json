@@ -1,0 +1,1075 @@
+{
+    "Navbar" : {
+     "Dropdown" :" Choose Language",
+     "Ar" : "Arabic",
+     "En" : "English",
+     "Fr" : "Frensh",
+     "Home" :"Home",
+     "title": "MidTripEgypt",
+     "programes":"Our Programes",
+    "singout" :"singout",
+    "login" :"Login",
+    "register" : "Register",
+    "Programes" : "Our Progrmaes",
+    "gallery" :"Gallery ",
+    "exchange": "Currency rates",
+    "Weather":"Weather",
+    "News":"News"
+    
+},
+"Rgsiter": {
+    "RegisterNow":"Register Now",
+    "Name":"Name",
+    "NameRequired" :"Name is required.",
+    "NameMinlength" :"Name must be at least 3 characters.",
+    "NameMaxlength" : "Name cannot exceed 20 characters.",
+    "Email":"Email",
+    "Password": "Password",
+    "rePassword":"Confirm Password",
+    "Phone":"Phone",
+    "btnRegister":"Register",
+    "PasswordRequired." : "Password is required.",
+    "PasswordConfirmationRequired": "Password confirmation is required",
+    "PasswordsMatch":" Passwords do not match",
+    "PhoneeqRuired": "Phone number is required"
+},
+"LoginForm":{
+    "loginNow": "Login Now",
+    "Email":"Email",
+    "Password": "Password",
+    "ForgetPassword": "Forget Password",
+    "btnLogin":"Login",
+    "EmailConfirm": "Email Confirm",
+    "EmailRequired" : "Email is required",
+    "InvalidEmailFormat":"Invalid email format", 
+    "SendEmail":"Send Email",
+    "resetCode": "Reset Code",
+    "CodeIsRequired":"Code is required",
+    "CodeNotCorrect":"Code Not Correct",
+    "btnCode":"Send Code",
+    "Code" : "code"
+},
+"Home": {
+    "title":"Treatment   And Healing   In Egypt",
+    "feedbackNameOne":"Marcos Sameh",
+    "feedbackCaptionOne":"I enjoyed the medical trip in Egypt, it is really a wonderful city, its atmosphere is beautiful and its people are good. Really it was a great vacation, this site helped me a lot, thanks to the whole team ",
+    "feedbackNameTwo":"Engy Adle",
+    "feedbackCaptionTwo":"It is the first time I visit in Egypt and this wonderful site helped a lot in organizing my time and using the time correctly and treating people above wonderful Thank you very much",
+    "feedbackNameThree":"Patrick John",
+    "feedbackCaptionThree":"I enjoyed a lot in a visit to Egypt, especially I enjoyed the therapeutic trip, as Egypt enjoys many natural therapeutic places and my health has improved significantly, I advise you to try this trip ",
+    "feedbackNameFour":"Sandra Burak",
+    "feedbackCaptionFour":" ",
+  "who": {
+    "title": "Who We Are",
+    "1": "Are you looking for a place that combines treatment and relaxation? Egypt is your ideal destination! Egypt boasts a rich history in medicine and healing, offering a wide range of natural and cosmetic treatments. Medical tourism in Egypt is a unique opportunity to recover from ailments, rejuvenate, and explore an ancient civilization.",
+    "2": "Our website provides a comprehensive and unique destination for travel and medical tourism enthusiasts, aiming to guide tourists to Egypt's top therapeutic destinations. We provide detailed information on prominent treatment centers, wellness resorts, and tourist attractions, creating a unique experience that combines advanced healthcare with the beauty and history of Egypt.",
+    "3": "Egypt boasts unique natural features that make it an ideal destination for medical tourism. Sulfur springs, black sand, warm weather, and mineral water are some of the natural treasures used to treat various ailments such as rheumatism and skin diseases.",
+    "4": "Our site features an easy-to-use interface and interactive maps that help visitors locate treatment centers and view available options for each destination. The site also offers currency conversion services and weather updates for major Egyptian cities, helping visitors plan their trips better.",
+    "5": "The site includes a blog that regularly publishes the latest news and articles about the importance of medical tourism in Egypt and its numerous benefits. Through this blog, we aim to raise awareness about the field and provide tips for patients and visitors to ensure a comfortable and fruitful treatment journey.",
+    "6": "Our website aims to be a comprehensive portal that combines comfort and advanced healthcare, providing accurate information on medical tourism services in Egypt. Users can explore available treatment options, including rehabilitation programs and natural therapies, and discover the best destinations with exceptional therapeutic environments. We also provide an interactive map to help users explore medical and tourist locations, with access to weather and currency conversion data, making trip planning smoother and easier."
+  }
+},
+"Programes":{
+    "bookNow":"Book Now" 
+},
+"pagnation":{
+
+    "Next":"Next",
+    "Previous" :"Previous",
+     "page" :"Page",
+    "of":"of"
+},
+"medications": {
+  "title"  :"Medical condition",
+    "1": "Respiratory diseases",
+    "2" : "Diseases of bones and joints",
+    "3" : "Skin diseases",
+    "4" : "Neurological diseases",
+    "5" : "Muscle diseases",
+    "6" : "Digestive diseases",
+    "7" : "Stress and anxiety",
+    "8" : "Crculatory problems"
+},
+"TreatmentWays" : {
+  "title"  :"Treatment Ways",
+    "1" : "Sulfur springs and mineral water",
+    "2" : "Mud and hot sand",
+    "3" :"Sulfur springs",
+    "4" : "Recovery with pure atmosphere and dry climate"
+},
+"packages": {
+  "Title" : "Cost Classification" ,
+  "ECONOMY": "Economy Class",
+  "MEDIUM": "Medium Class",
+  "PREMIUM": "Premium Class (First Class)",
+  "VIP": "VIP Program",
+"1": {
+  "name": "Mud and Hot Sand Treatment in Siwa",
+  "location": "Siwa Oasis",
+  "facilities": "Therapeutic mineral baths, natural clay treatment areas, and physiotherapy rooms equipped for comprehensive joint rehabilitation.",
+  "disease": "Rheumatism and arthritis",
+  "disease2": "Psoriasis and skin diseases",
+  "disease3": "Tension and muscle pain",
+  "price": "3000",       
+  "days": "7",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Breakfast & Lunch & Dinner",
+  "treatmentWay": "Therapeutic Mud Bath, Sand Therapy, Massage Therapy",
+  "activities": "Explore the Siwa Oasis & Stargazing & Visit the Siwa Museum & Visit the Salt Lakes",
+  "category": "Economic"
+},
+"2": {
+  "name": "Healing Program in Oyoun Moussa",
+  "location": "South Sinai",
+  "facilities": "Mineral-rich bathing areas, dedicated natural clay therapy rooms, and comprehensive physiotherapy facilities for joint rehabilitation.",
+  "disease": "Arthritis and rheumatism",
+  "disease2": "Rich sulphurous water",
+  "disease3": "Skin diseases",
+  "disease4": "Bone and joint pain",
+  "diseasecat1": "Diseases of bones and joints",
+  "diseasecat2": "Respiratory diseases",
+  "diseasecat3": "Skin diseases",
+  "price": "4500",    
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Utilization of mineral-rich sulphurous water for therapeutic baths, combined with natural clay application for skin rejuvenation and joint relief, followed by customized joint physiotherapy rehabilitation programs to enhance mobility and alleviate pain.",
+  "activities": "Explore Ras Sedr & Visit Mount Sinai and St. Catherine’s Monastery & Desert Safaris & Stargazing",
+  "category": "Standard"
+},
+"3": {
+  "name": "Salt and Black Sand Treatment in Safaga",
+  "location": "Safaga, Red Sea",
+  "facilities": "Specialized treatment areas for salt and black sand therapy, advanced medical equipment for monitoring, and 24/7 nursing support for patient care.",
+  "disease": "Psoriasis and skin diseases",
+  "disease2": "Arthritis and bone pain",
+  "disease3": "Respiratory diseases",
+  "diseasecat1": "Diseases of bones and joints",
+  "diseasecat2": "Respiratory diseases",
+  "diseasecat3": "Skin diseases",
+  "price": "6000",    
+  "days": "6",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Therapeutic treatments utilizing salt and black sand for natural healing, combined with tailored physiotherapy sessions. Treatments focus on skin rejuvenation for psoriasis, alleviating arthritis and bone pain, and respiratory therapies to enhance overall well-being.",
+  "activities": "Beach Relaxation, Snorkeling and Diving, Boat Trips, Desert Safaris, Windsurfing and Kitesurfing, Day Trip to Luxor",
+  "category": "Premium"
+},
+"4": {
+  "name": "Sulphur Water Recovery",
+  "location": "Helwan, Greater Cairo",
+  "facilities": "Sulfur water therapy baths, private treatment rooms for massages and physiotherapy, and herbal treatment areas designed for relaxation and healing.",
+  "disease": "Rheumatism and arthritis",
+  "disease2": "Chronic skin diseases",
+  "disease3": "Respiratory diseases",
+  "diseasecat1": "Respiratory diseases",
+  "diseasecat2": "Diseases of bones and joints",
+  "diseasecat3": "Skin diseases",
+  "price": "7500",  
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Healing through immersion in sulfur water baths known for their therapeutic properties, combined with targeted massages and physiotherapy sessions to relieve pain from rheumatism and arthritis. Herbal treatment sessions complement the therapy to address chronic skin and respiratory diseases, promoting overall recovery and wellness.",
+  "activities": "Visit to Helwan’s Historical Sulfur Baths, Cultural Tour of Helwan, Day Trip to Cairo, Boat Ride on the Nile",
+  "category": "VIP"
+},
+"5": {
+  "name": "Healing Program in Oyoun Moussa - Economic",
+  "location": "South Sinai",
+  "facilities": "Mineral-rich bathing areas, dedicated natural clay therapy rooms, and comprehensive physiotherapy facilities for joint rehabilitation.",
+  "disease": "Arthritis and rheumatism",
+  "disease2": "Rich sulphurous water",
+  "disease3": "Skin diseases",
+  "disease4": "Bone and joint pain",
+ "diseasecat1": "Diseases of bones and joints",
+   "diseasecat2": "Respiratory diseases",
+   "diseasecat3": "Skin diseases"
+,
+  "price": "3500",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Utilization of mineral-rich sulphurous water for therapeutic baths, combined with natural clay application for skin rejuvenation and joint relief.",
+  "activities": "Explore Ras Sedr, Visit Mount Sinai and St. Catherine’s Monastery, Desert Safaris, Stargazing",
+  "category": "Economic"
+},
+"6": {
+  "name": "Healing Program in Oyoun Moussa - Standard",
+  "location": "South Sinai",
+  "facilities": "Mineral-rich bathing areas, dedicated natural clay therapy rooms, and comprehensive physiotherapy facilities for joint rehabilitation.",
+  "disease": "Arthritis and rheumatism",
+  "disease2": "Rich sulphurous water",
+  "disease3": "Skin diseases",
+  "disease4": "Bone and joint pain",
+   "diseasecat1" : "Diseases of bones and joints",
+   "diseasecat2" : "Respiratory diseases",
+    "diseasecat3": "Skin diseases",
+  "price": "5000",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Utilization of mineral-rich sulphurous water for therapeutic baths, combined with natural clay application for skin rejuvenation and joint relief, followed by customized joint physiotherapy rehabilitation programs.",
+  "activities": "Explore Ras Sedr, Visit Mount Sinai and St. Catherine’s Monastery, Desert Safaris, Stargazing",
+  "category": "Standard"
+},
+"7": {
+  "name": "Healing Program in Oyoun Moussa - Premium",
+  "location": "South Sinai",
+  "facilities": "Mineral-rich bathing areas, dedicated natural clay therapy rooms, and comprehensive physiotherapy facilities for joint rehabilitation.",
+  "disease": "Arthritis and rheumatism",
+  "disease2": "Rich sulphurous water",
+  "disease3": "Skin diseases",
+  "disease4": "Bone and joint pain",
+   "diseasecat1":"Diseases of bones and joints",
+    "diseasecat2":"Respiratory diseases",
+    "diseasecat3":"Skin diseases",
+  
+  "price": "6500",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Utilization of mineral-rich sulphurous water for therapeutic baths, combined with natural clay application for skin rejuvenation and joint relief, followed by customized joint physiotherapy rehabilitation programs, with additional luxury spa treatments.",
+  "activities": "Explore Ras Sedr, Visit Mount Sinai and St. Catherine’s Monastery, Desert Safaris, Stargazing, Private Guided Tours",
+  "category": "Premium"
+},
+"8": {
+  "name": "Healing Program in Oyoun Moussa - Luxury",
+  "location": "South Sinai",
+  "facilities": "Mineral-rich bathing areas, dedicated natural clay therapy rooms, and comprehensive physiotherapy facilities for joint rehabilitation.",
+  "disease": "Arthritis and rheumatism",
+  "disease2": "Rich sulphurous water",
+  "disease3": "Skin diseases",
+  "disease4": "Bone and joint pain",
+   "diseasecat1": "Diseases of bones and joints",
+    "diseasecat2":"Respiratory diseases",
+    "diseasecat3":"Skin diseases",
+  "price": "8000",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Utilization of mineral-rich sulphurous water for therapeutic baths, combined with natural clay application for skin rejuvenation and joint relief, followed by customized joint physiotherapy rehabilitation programs, with exclusive VIP spa services.",
+  "activities": "Explore Ras Sedr, Visit Mount Sinai and St. Catherine’s Monastery, Desert Safaris, Stargazing, Private Guided Tours, Helicopter Ride Over Sinai",
+  "category": "VIP"
+},
+"9": {
+  "name": "Salt and Black Sand Treatment in Safaga - Economic",
+  "location": "Safaga, Red Sea",
+  "facilities": "Specialized treatment areas for salt and black sand therapy, advanced medical equipment for monitoring, and 24/7 nursing support for patient care.",
+  "disease": "Psoriasis and skin diseases",
+  "disease2": "Arthritis and bone pain",
+  "disease3": "Respiratory diseases",
+  "diseasecat1":  "Diseases of bones and joints",
+  "diseasecat2" :"Respiratory diseases",
+   "diseasecat3":  "Skin diseases",
+  "price": "4000",
+  "days": "6",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Therapeutic treatments utilizing salt and black sand for natural healing, combined with tailored physiotherapy sessions focusing on skin rejuvenation for psoriasis, alleviating arthritis and bone pain, and respiratory therapies.",
+  "activities": "Beach Relaxation, Snorkeling and Diving, Desert Safaris",
+  "category": "Economic"
+},
+"10": {
+  "name": "Salt and Black Sand Treatment in Safaga - Standard",
+  "location": "Safaga, Red Sea",
+  "facilities": "Specialized treatment areas for salt and black sand therapy, advanced medical equipment for monitoring, and 24/7 nursing support for patient care.",
+  "disease": "Psoriasis and skin diseases",
+  "disease2": "Arthritis and bone pain",
+  "disease3": "Respiratory diseases",
+   "diseasecat1":    "Diseases of bones and joints",
+   "diseasecat2": "Respiratory diseases",
+   "diseasecat3" : "Skin diseases",
+  "price": "5000",
+  "days": "6",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Therapeutic treatments utilizing salt and black sand for natural healing, combined with tailored physiotherapy sessions focusing on skin rejuvenation for psoriasis, alleviating arthritis and bone pain, and respiratory therapies.",
+  "activities": "Beach Relaxation, Snorkeling and Diving, Boat Trips, Desert Safaris, Windsurfing and Kitesurfing",
+  "category": "Standard"
+},
+"11": {
+  "name": "Salt and Black Sand Treatment in Safaga - Premium",
+  "location": "Safaga, Red Sea",
+  "facilities": "Specialized treatment areas for salt and black sand therapy, advanced medical equipment for monitoring, and 24/7 nursing support for patient care.",
+  "disease": "Psoriasis and skin diseases",
+  "disease2": "Arthritis and bone pain",
+  "disease3": "Respiratory diseases",
+"diseasecat1":"Diseases of bones and joints",
+    "diseasecat2": "Respiratory diseases",
+    "diseasecat3":"Skin diseases",
+  "price": "6000",
+  "days": "6",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Therapeutic treatments utilizing salt and black sand for natural healing, combined with tailored physiotherapy sessions focusing on skin rejuvenation for psoriasis, alleviating arthritis and bone pain, and respiratory therapies.",
+  "activities": "Beach Relaxation, Snorkeling and Diving, Boat Trips, Desert Safaris, Windsurfing and Kitesurfing, Day Trip to Luxor",
+  "category": "Premium"
+},
+"12": {
+  "name": "Salt and Black Sand Treatment in Safaga - Luxury",
+  "location": "Safaga, Red Sea",
+  "facilities": "Specialized treatment areas for salt and black sand therapy, advanced medical equipment for monitoring, and 24/7 nursing support for patient care.",
+  "disease": "Psoriasis and skin diseases",
+  "disease2": "Arthritis and bone pain",
+  "disease3": "Respiratory diseases",
+  "diseasecat1" : "Diseases of bones and joints",
+   "diseasecat2" : "Respiratory diseases",
+  "diseasecat3" : "Skin diseases"
+  ,
+  "price": "7000",
+  "days": "6",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Therapeutic treatments utilizing salt and black sand for natural healing, combined with tailored physiotherapy sessions focusing on skin rejuvenation for psoriasis, alleviating arthritis and bone pain, and respiratory therapies.",
+  "activities": "Beach Relaxation, Snorkeling and Diving, Boat Trips, Desert Safaris, Windsurfing and Kitesurfing, Day Trip to Luxor, Luxor and Karnak Temple Visits",
+  "category": "VIP"
+},
+"13": {
+  "name": "Sulphur Water Recovery - Economic",
+  "location": "Helwan, Greater Cairo",
+  "facilities": "Sulfur water therapy baths, private treatment rooms for massages and physiotherapy, and herbal treatment areas designed for relaxation and healing.",
+  "disease": "Rheumatism and arthritis",
+  "disease2": "Chronic skin diseases",
+  "disease3": "Respiratory diseases",
+   "diseasecat1": "Respiratory diseases",
+    "diseasecat2":"Diseases of bones and joints",
+   "diseasecat3": "Skin diseases"
+  ,
+  "price": "3500",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Healing through immersion in sulfur water baths known for their therapeutic properties, combined with targeted massages and physiotherapy sessions to relieve pain from rheumatism and arthritis.",
+  "activities": "Visit to Helwan’s Historical Sulfur Baths, Cultural Tour of Helwan",
+  "category": "Economic"
+},
+"14": {
+  "name": "Sulphur Water Recovery - Standard",
+  "location": "Helwan, Greater Cairo",
+  "facilities": "Sulfur water therapy baths, private treatment rooms for massages and physiotherapy, and herbal treatment areas designed for relaxation and healing.",
+  "disease": "Rheumatism and arthritis",
+  "disease2": "Chronic skin diseases",
+  "disease3": "Respiratory diseases",
+  "diseasecat1": "Respiratory diseases",
+    "diseasecat2": "Diseases of bones and joints",
+   "diseasecat3" : "Skin diseases"
+  ,
+  "price": "4000",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Healing through immersion in sulfur water baths known for their therapeutic properties, combined with targeted massages and physiotherapy sessions to relieve pain from rheumatism and arthritis.",
+  "activities": "Visit to Helwan’s Historical Sulfur Baths, Cultural Tour of Helwan, Day Trip to Cairo, Boat Ride on the Nile",
+  "category": "Standard"
+},
+"15": {
+  "name": "Sulphur Water Recovery - Premium",
+  "location": "Helwan, Greater Cairo",
+  "facilities": "Sulfur water therapy baths, private treatment rooms for massages and physiotherapy, and herbal treatment areas designed for relaxation and healing.",
+  "disease": "Rheumatism and arthritis",
+  "disease2": "Chronic skin diseases",
+  "disease3": "Respiratory diseases",
+   "diseasecat1" : "Respiratory diseases",
+   "diseasecat2" :"Diseases of bones and joints",
+   "diseasecat3" : "Skin diseases"
+  ,
+  "price": "4500",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Healing through immersion in sulfur water baths known for their therapeutic properties, combined with targeted massages and physiotherapy sessions to relieve pain from rheumatism and arthritis.",
+  "activities": "Visit to Helwan’s Historical Sulfur Baths, Cultural Tour of Helwan, Day Trip to Cairo, Boat Ride on the Nile, Giza Pyramids Visit",
+  "category": "Premium"
+},
+"16": {
+  "name": "Sulphur Water Recovery - Luxury",
+  "location": "Helwan, Greater Cairo",
+  "facilities": "Sulfur water therapy baths, private treatment rooms for massages and physiotherapy, and herbal treatment areas designed for relaxation and healing.",
+  "disease": "Rheumatism and arthritis",
+  "disease2": "Chronic skin diseases",
+  "disease3": "Respiratory diseases",
+   "diseasecat1" : "Respiratory diseases",
+   "diseasecat2": "Diseases of bones and joints",
+   "diseasecat3" :"Skin diseases"
+  ,
+  "price": "5000",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Advanced sulfur water treatments, combined with personalized physiotherapy and herbal treatments.",
+  "activities": "Visit to Helwan’s Historical Sulfur Baths, Cultural Tour of Helwan, Day Trip to Cairo, Boat Ride on the Nile, Luxury Tour of Historical Sites",
+  "category": "VIP"
+},
+"17": {
+  "name": "Hot Water and Mud Healing - Economic",
+  "location": "Bahariya Oasis",
+  "facilities": "Hot mineral water spring access, dedicated black mud therapy rooms, and rehabilitation spaces designed for optimal comfort and recovery.",
+  "disease": "Joint inflammation",
+  "disease2": "Muscle tension",
+  "disease3": "Skin conditions",
+  "diseaseCategories": [
+    "Diseases of bones and joints",
+    "Respiratory diseases"
+  ],
+  "price": "4000",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Utilization of hot mineral water springs for therapeutic immersion, combined with black mud therapy sessions to relieve joint inflammation and muscle tension.",
+  "activities": "Desert Safari, Visit the Black Desert",
+  "category": "Economic"
+},
+"18": {
+  "name": "Hot Water and Mud Healing - Standard",
+  "location": "Bahariya Oasis",
+  "facilities": "Hot mineral water spring access, dedicated black mud therapy rooms, and rehabilitation spaces designed for optimal comfort and recovery.",
+  "disease": "Joint inflammation",
+  "disease2": "Muscle tension",
+  "disease3": "Skin conditions",
+  "diseaseCategories": [
+    "Diseases of bones and joints",
+    "Respiratory diseases"
+  ],
+  "price": "4500",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Utilization of hot mineral water springs for therapeutic immersion, combined with black mud therapy sessions to relieve joint inflammation and muscle tension.",
+  "activities": "Desert Safari, Visit the Black Desert, Stargazing Night",
+  "category": "Standard"
+},
+"19": {
+  "name": "Hot Water and Mud Healing - Premium",
+  "location": "Bahariya Oasis",
+  "facilities": "Hot mineral water spring access, dedicated black mud therapy rooms, and rehabilitation spaces designed for optimal comfort and recovery.",
+  "disease": "Joint inflammation",
+  "disease2": "Muscle tension",
+  "disease3": "Skin conditions",
+  "diseaseCategories": [
+    "Diseases of bones and joints",
+    "Respiratory diseases"
+  ],
+  "price": "5000",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Therapeutic immersion in hot mineral water springs combined with black mud therapy sessions to relieve joint inflammation and muscle tension, with tailored rehabilitation programs.",
+  "activities": "Desert Safari, Visit the Black Desert, Stargazing Night, Visit to the Valley of the Golden Mummies",
+  "category": "Premium"
+},
+"20": {
+  "name": "Hot Water and Mud Healing - Luxury",
+  "location": "Bahariya Oasis",
+  "facilities": "Hot mineral water spring access, dedicated black mud therapy rooms, and rehabilitation spaces designed for optimal comfort and recovery.",
+  "disease": "Joint inflammation",
+  "disease2": "Muscle tension",
+  "disease3": "Skin conditions",
+  "diseaseCategories": [
+    "Diseases of bones and joints",
+    "Respiratory diseases"
+  ],
+  "price": "5500",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Immersion in hot mineral water springs, black mud therapy, and advanced physiotherapy sessions for full recovery.",
+  "activities": "Desert Safari, Visit the Black Desert, Stargazing Night, Visit to the Valley of the Golden Mummies, Luxury Desert Tour",
+  "category": "VIP"
+},
+"21": {
+  "name": "Therapeutic Waters and Natural Steam Healing - Economic",
+  "location": "South Sinai",
+  "facilities": "Access to naturally heated sulfur springs, steam therapy rooms within mountain caves, and serene relaxation areas with stunning views of the surrounding landscape.",
+  "disease": "Skin diseases",
+  "disease2": "Respiratory conditions",
+  "disease3": "Joint and muscle pain",
+  "diseaseCategories": [
+    "Respiratory diseases",
+    "Skin diseases"
+  ],
+  "price": "5500",
+  "days": "6",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Therapeutic immersion in naturally heated sulfur springs, combined with natural steam therapy conducted inside mountain caves to promote respiratory health and relieve skin diseases.",
+  "activities": "Desert Safari, Tour of Local Bedouin Villages",
+  "category": "Economic"
+},
+"22": {
+  "name": "Therapeutic Waters and Natural Steam Healing - Standard",
+  "location": "South Sinai",
+  "facilities": "Access to naturally heated sulfur springs, steam therapy rooms within mountain caves, and serene relaxation areas with stunning views of the surrounding landscape.",
+  "disease": "Skin diseases",
+  "disease2": "Respiratory conditions",
+  "disease3": "Joint and muscle pain",
+  "diseaseCategories": [
+    "Respiratory diseases",
+    "Skin diseases"
+  ],
+  "price": "6000",
+  "days": "6",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Therapeutic immersion in naturally heated sulfur springs, combined with natural steam therapy conducted inside mountain caves to promote respiratory health and relieve skin diseases.",
+  "activities": "Desert Safari, Hiking in the Sinai Mountains, Stargazing",
+  "category": "Standard"
+},
+"23": {
+  "name": "Therapeutic Waters and Natural Steam Healing - Premium",
+  "location": "South Sinai",
+  "facilities": "Access to naturally heated sulfur springs, steam therapy rooms within mountain caves, and serene relaxation areas with stunning views of the surrounding landscape.",
+  "disease": "Skin diseases",
+  "disease2": "Respiratory conditions",
+  "disease3": "Joint and muscle pain",
+  "diseaseCategories": [
+    "Respiratory diseases",
+    "Skin diseases"
+  ],
+  "price": "6500",
+  "days": "6",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Therapeutic immersion in naturally heated sulfur springs, combined with natural steam therapy conducted inside mountain caves to promote respiratory health and relieve skin diseases. Targeted treatments for joint and muscle pain.",
+  "activities": "Desert Safari, Hiking in the Sinai Mountains, Stargazing, Tour of Local Bedouin Villages",
+  "category": "Premium"
+},
+"24": {
+  "name": "Therapeutic Waters and Natural Steam Healing - Luxury",
+  "location": "South Sinai",
+  "facilities": "Access to naturally heated sulfur springs, steam therapy rooms within mountain caves, and serene relaxation areas with stunning views of the surrounding landscape.",
+  "disease": "Skin diseases",
+  "disease2": "Respiratory conditions",
+  "disease3": "Joint and muscle pain",
+  "diseaseCategories": [
+    "Respiratory diseases",
+    "Skin diseases"
+  ],
+  "price": "7000",
+  "days": "6",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Comprehensive therapeutic immersion in naturally heated sulfur springs, combined with natural steam therapy and advanced physiotherapy to address respiratory, skin, and joint issues.",
+  "activities": "Desert Safari, Hiking in the Sinai Mountains, Stargazing, Tour of Local Bedouin Villages, Luxury Desert Tour",
+  "category": "VIP"
+},
+"25": {
+  "name": "Holistic Wellness Program - Economic",
+  "location": "Ain Sokhna",
+  "facilities": "Luxurious resort amenities, access to mineral-rich hot springs, wellness treatment rooms, and tranquil outdoor spaces for meditation and relaxation.",
+  "disease": "Chronic joint pain and arthritis",
+  "disease2": "Stress-related ailments and fatigue",
+  "disease3": "Skin conditions and detoxification",
+  "diseaseCategories": [
+    "Diseases of bones and joints",
+    "Skin diseases",
+    "Stress and anxiety"
+  ],
+  "price": "7000",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Healing through access to mineral-rich hot springs that promote relaxation and detoxification, complemented by personalized wellness and physical therapy plans tailored to individual needs.",
+  "activities": "Hiking in the Surrounding Mountains",
+  "category": "Economic"
+},
+"26": {
+  "name": "Holistic Wellness Program - Standard",
+  "location": "Ain Sokhna",
+  "facilities": "Luxurious resort amenities, access to mineral-rich hot springs, wellness treatment rooms, and tranquil outdoor spaces for meditation and relaxation.",
+  "disease": "Chronic joint pain and arthritis",
+  "disease2": "Stress-related ailments and fatigue",
+  "disease3": "Skin conditions and detoxification",
+  "diseaseCategories": [
+    "Diseases of bones and joints",
+    "Skin diseases",
+    "Stress and anxiety"
+  ],
+  "price": "7500",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Healing through access to mineral-rich hot springs that promote relaxation and detoxification, complemented by personalized wellness and physical therapy plans tailored to individual needs.",
+  "activities": "Hiking in the Surrounding Mountains, Boat Rides on the Red Sea",
+  "category": "Standard"
+},
+"27": {
+  "name": "Holistic Wellness Program - Premium",
+  "location": "Ain Sokhna",
+  "facilities": "Luxurious resort amenities, access to mineral-rich hot springs, wellness treatment rooms, and tranquil outdoor spaces for meditation and relaxation.",
+  "disease": "Chronic joint pain and arthritis",
+  "disease2": "Stress-related ailments and fatigue",
+  "disease3": "Skin conditions and detoxification",
+  "diseaseCategories": [
+    "Diseases of bones and joints",
+    "Skin diseases",
+    "Stress and anxiety"
+  ],
+  "price": "8000",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Healing through access to mineral-rich hot springs that promote relaxation and detoxification, complemented by personalized wellness and physical therapy plans tailored to individual needs. This program focuses on alleviating chronic joint pain, stress-related ailments, and skin conditions.",
+  "activities": "Hiking in the Surrounding Mountains, Boat Rides on the Red Sea, Relaxation Massage Sessions",
+  "category": "Premium"
+},
+"28": {
+  "name": "Holistic Wellness Program - Luxury",
+  "location": "Ain Sokhna",
+  "facilities": "Luxurious resort amenities, access to mineral-rich hot springs, wellness treatment rooms, and tranquil outdoor spaces for meditation and relaxation.",
+  "disease": "Chronic joint pain and arthritis",
+  "disease2": "Stress-related ailments and fatigue",
+  "disease3": "Skin conditions and detoxification",
+  "diseaseCategories": [
+    "Diseases of bones and joints",
+    "Skin diseases",
+    "Stress and anxiety"
+  ],
+  "price": "8500",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Comprehensive therapeutic immersion in mineral-rich hot springs, complemented by advanced personal wellness programs to address stress, joint pain, and skin conditions.",
+  "activities": "Hiking in the Surrounding Mountains, Boat Rides on the Red Sea, Relaxation Massage Sessions, Private Tours to Local Attractions",
+  "category": "VIP"
+},
+ "29": {
+  "name": "Thermal Water Healing - Economic",
+  "location": "Marsa Matruh",
+  "facilities": "Therapeutic thermal water pools, skin treatment rooms with advanced technology, and relaxing beachside lounges for a rejuvenating experience.",
+  "disease": "Muscle soreness and fatigue",
+  "disease2": "Joint inflammation",
+  "disease3": "Respiratory diseases",
+  "diseaseCategories": [
+    "Respiratory diseases",
+    "Diseases of bones and joints",
+    "Muscle diseases"
+  ],
+  "price": "5900",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Therapeutic immersion in mineral-rich thermal waters designed to relieve muscle soreness and fatigue, complemented by skin rejuvenation and detoxification treatments.",
+  "activities": "Snorkeling and Swimming, Camel Riding along the Coast",
+  "category": "Economic"
+},
+"30": {
+  "name": "Thermal Water Healing - Standard",
+  "location": "Marsa Matruh",
+  "facilities": "Therapeutic thermal water pools, skin treatment rooms with advanced technology, and relaxing beachside lounges for a rejuvenating experience.",
+  "disease": "Muscle soreness and fatigue",
+  "disease2": "Joint inflammation",
+  "disease3": "Respiratory diseases",
+  "diseaseCategories": [
+    "Respiratory diseases",
+    "Diseases of bones and joints",
+    "Muscle diseases"
+  ],
+  "price": "6200",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Therapeutic immersion in mineral-rich thermal waters designed to relieve muscle soreness and fatigue, complemented by skin rejuvenation and detoxification treatments. This holistic approach promotes wellness in a tranquil natural environment.",
+  "activities": "Snorkeling and Swimming, Camel Riding along the Coast, Visit to Cleopatra’s Palace",
+  "category": "Standard"
+},
+"31": {
+  "name": "Thermal Water Healing - Premium",
+  "location": "Marsa Matruh",
+  "facilities": "Therapeutic thermal water pools, skin treatment rooms with advanced technology, and relaxing beachside lounges for a rejuvenating experience.",
+  "disease": "Muscle soreness and fatigue",
+  "disease2": "Joint inflammation",
+  "disease3": "Respiratory diseases",
+  "diseaseCategories": [
+    "Respiratory diseases",
+    "Diseases of bones and joints",
+    "Muscle diseases"
+  ],
+  "price": "6500",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Therapeutic immersion in mineral-rich thermal waters designed to relieve muscle soreness and fatigue, complemented by skin rejuvenation and detoxification treatments. This holistic approach promotes wellness in a tranquil natural environment, with a focus on joint inflammation and respiratory diseases.",
+  "activities": "Snorkeling and Swimming, Camel Riding along the Coast, Visit to Cleopatra’s Palace, Beachside Relaxation Sessions",
+  "category": "Premium"
+},
+"32": {
+  "name": "Thermal Water Healing - Luxury",
+  "location": "Marsa Matruh",
+  "facilities": "Therapeutic thermal water pools, skin treatment rooms with advanced technology, and relaxing beachside lounges for a rejuvenating experience.",
+  "disease": "Muscle soreness and fatigue",
+  "disease2": "Joint inflammation",
+  "disease3": "Respiratory diseases",
+  "diseaseCategories": [
+    "Respiratory diseases",
+    "Diseases of bones and joints",
+    "Muscle diseases"
+  ],
+  "price": "7000",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Comprehensive therapeutic immersion in mineral-rich thermal waters, advanced skin rejuvenation treatments, and personalized therapies addressing muscle soreness, joint inflammation, and respiratory diseases.",
+  "activities": "Snorkeling and Swimming, Camel Riding along the Coast, Visit to Cleopatra’s Palace, Beachside Relaxation Sessions, Massage Therapies",
+  "category": "VIP"
+},
+"33": {
+  "name": "Comprehensive Rehabilitation - Economic",
+  "location": "Fayoum",
+  "facilities": "Integrated wellness center featuring water therapy pools, physical therapy equipment, herbal treatment rooms, and peaceful outdoor spaces for relaxation.",
+  "disease": "Post-injury rehabilitation",
+  "disease2": "Chronic joint and muscle pain",
+  "disease3": "Arthritis and rheumatism",
+  "diseaseCategories": [
+    "Diseases of bones and joints",
+    "Respiratory diseases"
+  ],
+  "price": "6500",
+  "days": "7",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "A blend of water therapy, physical therapy, and herbal treatments tailored to individual needs. This program focuses on post-injury rehabilitation and alleviating chronic joint and muscle pain.",
+  "activities": "Boat Ride on Lake Qarun, Visit to Wadi El-Rayan",
+  "category": "Economic"
+},
+"34": {
+  "name": "Comprehensive Rehabilitation - Standard",
+  "location": "Fayoum",
+  "facilities": "Integrated wellness center featuring water therapy pools, physical therapy equipment, herbal treatment rooms, and peaceful outdoor spaces for relaxation.",
+  "disease": "Post-injury rehabilitation",
+  "disease2": "Chronic joint and muscle pain",
+  "disease3": "Arthritis and rheumatism",
+  "diseaseCategories": [
+    "Diseases of bones and joints",
+    "Respiratory diseases"
+  ],
+  "price": "7000",
+  "days": "7",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "An integrative approach combining water therapy, physical therapy, and herbal treatments tailored to individual needs. This program focuses on post-injury rehabilitation and alleviating chronic joint and muscle pain.",
+  "activities": "Boat Ride on Lake Qarun, Visit to Wadi El-Rayan, Tour of Fayoum’s Historical Sites",
+  "category": "Standard"
+},
+"35": {
+  "name": "Comprehensive Rehabilitation - Premium",
+  "location": "Fayoum",
+  "facilities": "Integrated wellness center featuring water therapy pools, physical therapy equipment, herbal treatment rooms, and peaceful outdoor spaces for relaxation.",
+  "disease": "Post-injury rehabilitation",
+  "disease2": "Chronic joint and muscle pain",
+  "disease3": "Arthritis and rheumatism",
+  "diseaseCategories": [
+    "Diseases of bones and joints",
+    "Respiratory diseases"
+  ],
+  "price": "7500",
+  "days": "7",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Comprehensive therapy using water therapy, physical therapy, and herbal treatments. This approach targets joint and muscle pain, arthritis, and post-injury rehabilitation.",
+  "activities": "Boat Ride on Lake Qarun, Visit to Wadi El-Rayan, Tour of Fayoum’s Historical Sites, Outdoor Relaxation Sessions",
+  "category": "Premium"
+},
+"36": {
+  "name": "Comprehensive Rehabilitation - Luxury",
+  "location": "Fayoum",
+  "facilities": "Integrated wellness center featuring water therapy pools, physical therapy equipment, herbal treatment rooms, and peaceful outdoor spaces for relaxation.",
+  "disease": "Post-injury rehabilitation",
+  "disease2": "Chronic joint and muscle pain",
+  "disease3": "Arthritis and rheumatism",
+  "diseaseCategories": [
+    "Diseases of bones and joints",
+    "Respiratory diseases"
+  ],
+  "price": "8000",
+  "days": "7",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "A holistic approach with water therapy, physical therapy, herbal treatments, and advanced relaxation techniques, tailored for each individual.",
+  "activities": "Boat Ride on Lake Qarun, Visit to Wadi El-Rayan, Tour of Fayoum’s Historical Sites, Massage Therapy, Outdoor Wellness Activities",
+  "category": "VIP"
+},
+"37": {
+  "name": "Hot Sand Therapy - Economic",
+  "location": "Al Kharga Oasis",
+  "facilities": "Dedicated wellness area for sand therapy, professional staff for treatment guidance, and a tranquil lounge for relaxation and recovery.",
+  "disease": "Rheumatic diseases",
+  "disease2": "Chronic fatigue and stress",
+  "disease3": "Skin conditions and detoxification",
+  "diseaseCategories": [
+    "Diseases of bones and joints",
+    "Skin diseases",
+    "Stress and anxiety"
+  ],
+  "price": "5300",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Therapeutic full-body sand burial in hot desert sands, designed to relieve rheumatic diseases and promote detoxification through mineral-rich treatments. This program focuses on reducing chronic fatigue and stress, while the serene desert environment enhances relaxation and mental well-being.",
+  "activities": "Desert Yoga, Desert Safari",
+  "category": "Economic"
+},
+"38": {
+  "name": "Hot Sand Therapy - Standard",
+  "location": "Al Kharga Oasis",
+  "facilities": "Dedicated wellness area for sand therapy, professional staff for treatment guidance, and a tranquil lounge for relaxation and recovery.",
+  "disease": "Rheumatic diseases",
+  "disease2": "Chronic fatigue and stress",
+  "disease3": "Skin conditions and detoxification",
+  "diseaseCategories": [
+    "Diseases of bones and joints",
+    "Skin diseases",
+    "Stress and anxiety"
+  ],
+  "price": "5800",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Full-body sand burial therapy designed to relieve rheumatic diseases and enhance detoxification. The program focuses on reducing chronic fatigue and stress, with the serene desert environment enhancing mental and physical well-being.",
+  "activities": "Desert Yoga, Desert Safari, Star Gazing Night",
+  "category": "Standard"
+},
+"39": {
+  "name": "Hot Sand Therapy - Premium",
+  "location": "Al Kharga Oasis",
+  "facilities": "Dedicated wellness area for sand therapy, professional staff for treatment guidance, and a tranquil lounge for relaxation and recovery.",
+  "disease": "Rheumatic diseases",
+  "disease2": "Chronic fatigue and stress",
+  "disease3": "Skin conditions and detoxification",
+  "diseaseCategories": [
+    "Diseases of bones and joints",
+    "Skin diseases",
+    "Stress and anxiety"
+  ],
+  "price": "6300",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Comprehensive sand therapy with mineral-rich treatments designed to relieve rheumatic diseases, chronic fatigue, and stress, set in a tranquil desert environment for ultimate relaxation and detoxification.",
+  "activities": "Desert Yoga, Desert Safari, Star Gazing Night, Visit to Al Kharga Oasis",
+  "category": "Premium"
+},
+"40": {
+  "name": "Hot Sand Therapy - Luxury",
+  "location": "Al Kharga Oasis",
+  "facilities": "Dedicated wellness area for sand therapy, professional staff for treatment guidance, and a tranquil lounge for relaxation and recovery.",
+  "disease": "Rheumatic diseases",
+  "disease2": "Chronic fatigue and stress",
+  "disease3": "Skin conditions and detoxification",
+  "diseaseCategories": [
+    "Diseases of bones and joints",
+    "Skin diseases",
+    "Stress and anxiety"
+  ],
+  "price": "6800",
+  "days": "5",
+  "accommodation": "Yes",
+  "transportation": "Yes",
+  "meals": "Included: Breakfast & Lunch & Dinner",
+  "treatmentWay": "Exclusive hot sand therapy program offering tailored treatments for detoxification and stress reduction, set in a luxurious desert setting. Includes full-body sand burial therapy and advanced techniques for mental and physical relaxation.",
+  "activities": "Desert Yoga, Desert Safari, Star Gazing Night, Visit to Al Kharga Oasis, Full Relaxation Sessions",
+  "category": "VIP"
+}
+},
+"details":{
+    "Location":"Location",
+    "Disease":"Disease",
+    "TreatmentWay":"Treatment Way",
+    "Facilities": "Facilities",
+    "Price":"Price",
+    "Days":"Days",
+    "Accommodation": "Accommodation",
+    "Transportation":"Transportation",
+    "MealsIncluded":"Meals Included",
+    "Activities":"Activities"
+},
+"Posts":{
+  "1":{
+    "name":"Mark",
+    "PostTitle":"great Trip", 
+     "postBody":"I Spent Great Time In Egypt",
+    "likesNumber":"250",
+    "CommontNumber":"150"
+  },
+  "2":{  
+    "name":"Mark",
+    "PostTitle":"Great Moments", 
+     "postBody":"Great Moments In Egypt With My Family",
+    "likesNumber":"500",
+    "CommontNumber":"800"
+  },
+  "3":{   
+      "name":"Mark",
+      "PostTitle":"Beautiful Egypt", 
+       "postBody":"I Had A Great Time In Egypt",
+      "likesNumber":"400",
+      "CommontNumber":"100"
+  
+  }
+},
+"gallery": {
+  "All" :"All",
+  "Nature" :"Nature",
+  "Architecture" :"Architecture",
+  "People":"People"
+},
+"blog" : {
+    "Read":"Read More",
+  "1": {
+    "title": "Elements of medical tourism in Egypt",
+    "content": "Egypt contains hundreds of springs and natural wells rich in minerals and sulfur, with different capacities and depths and varying temperatures ranging from 30 to more than 70 degrees Celsius. It also contains the richest springs in sulfur in the world, in addition to containing other healing minerals such as sodium carbonate and some metallic elements; such as magnesium and iron. Water resources for medical purposes are characterized by containing a salinity ratio suitable for healing processes. Natural wells with fresh and drinkable water are also widespread in Egypt. The state has invested in and used them for economic purposes with strict control over specifications and standards; to ensure the quality and purity of water from impurities and germs and the degree of hardness of the water and its chemical composition. Egypt contains sand dunes whose therapeutic importance is equal to the importance of mineral water; as the sands in them contain a group of radioactive elements that are beneficial for treating rheumatic diseases and diseases resulting from diseases of the spine and other diseases with severe pain; where they are used These dunes are buried in the body or the part of the body that is suffering from acute pain for specific and studied periods of time.",
+    "date": "October 21, 2024 PM"
+  },
+  "2": {
+    "title": "Alternative treatment centers",
+    "content": "First-class medical professionals are employed within hospitals and clinics in Egypt, ensuring the highest standards of treatment and post-operative healthcare, all at a low cost. This advantage has now cemented Egypt's reputation as a major medical tourism destination for patients.",
+    "date": "March 23, 2024 AM"
+  },
+  "3": {
+    "title": "Elements of medical tourism in Egypt",
+    "content": "Egypt contains hundreds of springs and natural wells rich in minerals and sulfur, with different capacities and depths and varying temperatures ranging from 30 to more than 70 degrees Celsius. It also contains the richest springs in sulfur in the world, in addition to containing other healing minerals such as sodium carbonate and some metallic elements; such as magnesium and iron. Water resources for medical purposes are characterized by containing a salinity ratio suitable for healing processes. Natural wells with fresh and drinkable water are also widespread in Egypt. The state has invested in and used them for economic purposes with strict control over specifications and standards; to ensure the quality and purity of water from impurities and germs and the degree of hardness of the water and its chemical composition. Egypt contains sand dunes whose therapeutic importance is equal to the importance of mineral water; as the sands in them contain a group of radioactive elements that are beneficial for treating rheumatic diseases and diseases resulting from diseases of the spine and other diseases with severe pain; where they are used These dunes are buried in the body or the part of the body that is suffering from acute pain for specific and studied periods of time.",
+    "date": "October 21, 2024 PM"
+  }, 
+  "4": {
+    "title": "Elements of medical tourism in Egypt",
+    "content": "Egypt contains hundreds of springs and natural wells rich in minerals and sulfur, with different capacities and depths and varying temperatures ranging from 30 to more than 70 degrees Celsius. It also contains the richest springs in sulfur in the world, in addition to containing other healing minerals such as sodium carbonate and some metallic elements; such as magnesium and iron. Water resources for medical purposes are characterized by containing a salinity ratio suitable for healing processes. Natural wells with fresh and drinkable water are also widespread in Egypt. The state has invested in and used them for economic purposes with strict control over specifications and standards; to ensure the quality and purity of water from impurities and germs and the degree of hardness of the water and its chemical composition. Egypt contains sand dunes whose therapeutic importance is equal to the importance of mineral water; as the sands in them contain a group of radioactive elements that are beneficial for treating rheumatic diseases and diseases resulting from diseases of the spine and other diseases with severe pain; where they are used These dunes are buried in the body or the part of the body that is suffering from acute pain for specific and studied periods of time.",
+    "date": "October 21, 2024 PM"
+  },
+  "5": {
+    "title": "Elements of medical tourism in Egypt",
+    "content": "Egypt contains hundreds of springs and natural wells rich in minerals and sulfur, with different capacities and depths and varying temperatures ranging from 30 to more than 70 degrees Celsius. It also contains the richest springs in sulfur in the world, in addition to containing other healing minerals such as sodium carbonate and some metallic elements; such as magnesium and iron. Water resources for medical purposes are characterized by containing a salinity ratio suitable for healing processes. Natural wells with fresh and drinkable water are also widespread in Egypt. The state has invested in and used them for economic purposes with strict control over specifications and standards; to ensure the quality and purity of water from impurities and germs and the degree of hardness of the water and its chemical composition. Egypt contains sand dunes whose therapeutic importance is equal to the importance of mineral water; as the sands in them contain a group of radioactive elements that are beneficial for treating rheumatic diseases and diseases resulting from diseases of the spine and other diseases with severe pain; where they are used These dunes are buried in the body or the part of the body that is suffering from acute pain for specific and studied periods of time.",
+    "date": "October 21, 2024 PM"
+  }
+},
+"footer": {
+  "contact": "Our Contact",
+  "address": "25, Thara Street, Cairo",
+  "number" :"(+20) 01274509992",
+  "website": "WWW.MideTripEgypt.com",
+  "quick_links": "Quick Links",
+  "home": "Home",
+  "about_us": "About Us",
+  "packages": "Packages",
+  "rate_experience": "Rate your Experience",
+  "faq": "FAQ",
+  "rights_reserved": "MidTripEgypt. All rights reserved."
+},
+"faq": {
+  "title": "Frequently Asked Questions",
+  "1": {
+    "q": "What is MidTripEgypt?",
+    "a": "MidTripEgypt offers medical tourism services in Egypt."
+  },
+  "2": {
+    "q": "How can I book a medical treatment?",
+    "a": "You can book a treatment through our website or contact us directly."
+  },
+  "3": {
+    "q": "What languages do you support?",
+    "a": "We offer support in English, Arabic, and French."
+  },
+  "4": {
+    "q": "Is transportation included in the packages?",
+    "a": "Yes, transportation is included in most of our packages."
+  },
+  "5": {
+    "q": "Can I get a consultation before booking?",
+    "a": "Yes, we offer consultations before you make any bookings."
+  },
+  "6": {
+    "q": "What types of treatments are available?",
+    "a": "We offer a wide range of treatments, including cosmetic surgery, dental procedures, and wellness therapies."
+  },
+  "7": {
+    "q": "Do you provide medical insurance?",
+    "a": "We offer assistance with medical insurance, but the final decision depends on the insurance provider."
+  },
+  "8": {
+    "q": "How do I know the best treatment package for me?",
+    "a": "You can schedule a free consultation with one of our experts to determine the best treatment package for your needs."
+  },
+  "9": {
+    "q": "Are the doctors accredited?",
+    "a": "Yes, all of our doctors are accredited and internationally recognized specialists."
+  },
+  "10": {
+    "q": "What happens if I need to cancel or change my booking?",
+    "a": "We offer flexible cancellation and rescheduling policies. Please contact us for more details."
+  }
+
+},
+"counter": {
+  "users": "Vistores",
+  "trips": "Trips This Year",
+  "feedbacks": "Customer Feedbacks",
+  "programs": "Programs Available"
+},
+"ResetCode": {
+  "Title" : "Reset Code",
+  "Code" :"Code",
+  "required" :"Code is required.",
+  "pattern": "Code Not Correct.",
+  "SendCode" :"Send Code"
+},
+"NewPasswprd" :{
+ "Title" : "New Passwprd",
+ "Email" : "Email",
+ "Password" : "Password",
+ "EmailRequired" : "Email is required.",
+ "EmailPattern" : "Invalid Email Format.",
+ "PasswordRequired" : "Password is required.",
+ "PasswordPattern" : "Password Must Be At Least 6 Chars",
+ "send" : "Send"
+},
+ "Filter" : "Filter by",
+ "Apply" : "Apply",
+"Reset" : "Reset",
+"Search" : {
+  "Placeholder" : "Search By Title ...",
+  "NoResults" :  "There are no trips that match your search. You can create your own"
+
+}
+}
+ 
+ 
+
+ 
+
